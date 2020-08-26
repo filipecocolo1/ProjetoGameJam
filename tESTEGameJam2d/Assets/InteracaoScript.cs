@@ -6,7 +6,8 @@ using UnityEngine;
 public class InteracaoScript : MonoBehaviour
 {
     public bool subindoEscada = false;
-    
+    public bool EsbarrouNpc = false;
+
   
 
 
@@ -29,7 +30,16 @@ public class InteracaoScript : MonoBehaviour
             subindoEscada = true;
         }
 
-    
+        if (collision.tag == "Npc") {
+
+            EsbarrouNpc = true;
+
+
+
+
+
+        }
+
     
     }
     public void OnTriggerExit2D(Collider2D collision)
@@ -38,6 +48,24 @@ public class InteracaoScript : MonoBehaviour
         {
             subindoEscada = false;
         }
+
+        if (collision.tag == "Npc")
+        {
+
+            EsbarrouNpc = false;
+
+
+
+
+
+        }
+
+
+
+
+
+
+
     }
 
 
