@@ -20,7 +20,7 @@ public class Doors : MonoBehaviour
         if (collision.tag == "player")
         {
             Debug.Log("Estou collidindo com uma porta");
-            player.transform.position = new Vector3(Porta.transform.position.x -2, Porta.transform.position.y, Porta.transform.position.z);
+            player.transform.position = new Vector3(Porta.transform.position.x +2, Porta.transform.position.y, Porta.transform.position.z);
         }
     }
     }
