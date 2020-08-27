@@ -4,57 +4,50 @@ using UnityEngine;
 
 public class Dialogo : MonoBehaviour
 {
-    public FalaNpc[] falas = new FalaNpc[2];
-    private bool dialogoConcluido = false;
+    public FalaNpc[] falas;
+    public bool dialogoConcluido = false;
     DialogoController dialogocontroller;
     public string ObJETOcOLL;
-    // Start is called before the first frame update
+    GameObject Player;
+
     void Start()
     {
+        Player = GameObject.Find("Personagem");
         dialogocontroller = FindObjectOfType<DialogoController>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-
-    }
-    public void OnTriggerStay2D(Collider2D other)
-    {
-        if (other.CompareTag("player"))
+        if (ObJETOcOLL == "Personagem")
         {
-            ObJETOcOLL = other.name;
             if (Input.GetKeyDown(KeyCode.E))
             {
 
-                other.GetComponent<MovimentPersonAndJump>().moveSpeed = 0;
-
-
+                Player.GetComponent<MovimentPersonAndJump>().moveSpeed = 0;
+                dialogocontroller._diAL = this.GetComponent<Dialogo>();
 
                 if (!dialogoConcluido)
                 {
                     dialogocontroller.ProximaFala(falas[0]);
-
-
                 }
                 else
                 {
-
                     dialogocontroller.ProximaFala(falas[1]);
-
                 }
-                dialogoConcluido = true;
 
+            
             }
-
         }
+    }
+    public void OnTriggerStay2D(Collider2D other)
+    {
+        if (other.CompareTag("player"))
+        ObJETOcOLL = other.name;
+
     }
     public void OnTriggerExit2D(Collider2D other)
     {
-        if (other.CompareTag("player"))
-        {
+        if (other.CompareTag("player"))       
             ObJETOcOLL = null;
-        }
-
     }
  }

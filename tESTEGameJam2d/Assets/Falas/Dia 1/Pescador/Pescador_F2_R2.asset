@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: Pescador_F2_R2
+  m_EditorClassIdentifier: 
+  fala: "Pescador - A\xED vai depender de como a rota var ser deste momento em diante,
+    mas sobre o clima pode deixar, se meu joelho doer eu te aviso HAHAA. "
+  respostas:
+  - resposta: "N\xE3o culpe a rota por sua falta de servi\xE7o marujo, ao menos tente
+      pescar, e pare de contar essas hist\xF3rias sem fundamento para o recruta,
+      ele vai acabar n\xE3o dormindo a noite se continuar assim. "
+    proximafala: {fileID: 11400000, guid: a99e982f5832038418f09d08793d4d50, type: 2}
+  - resposta: "Ao menos posso confiar mais em seu joelho do que em sua consist\xEAncia
+      em pescar na jornada HAHA. "
+    proximafala: {fileID: 11400000, guid: 29c927317a494b947bd6296849c13849, type: 2}

@@ -10,7 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: Fala1a
+  m_Name: Pescador_F3_R1
   m_EditorClassIdentifier: 
-  fala: Ok Tome Cuidado
+  fala: "Pescador - Naquele dia eu estava deprimido por conta daquela mulher que
+    me abandonou, voc\xEA sabe como \xE9, ainda agrade\xE7o o m\xFAsico e o imediato
+    por me ajudarem aquele dia... "
   respostas: []

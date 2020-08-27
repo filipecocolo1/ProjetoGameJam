@@ -4,23 +4,33 @@ using UnityEngine;
 
 public class Doors : MonoBehaviour
 {
-   public GameObject Porta, player;
-    // Start is called before the first frame update
-    void Start()
-    {
+    public Transform _PortaDestino;
+    public GameObject Player;
+    public string _ObjetoColidindoComigo;
 
-    }
-
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-    }
-    public void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.tag == "player")
+        if (_ObjetoColidindoComigo == "Personagem" && Input.GetKeyDown(KeyCode.E))
         {
-            Debug.Log("Estou collidindo com uma porta");
-            player.transform.position = new Vector3(Porta.transform.position.x +2, Porta.transform.position.y, Porta.transform.position.z);
+            Player.transform.position = new Vector3(_PortaDestino.transform.position.x, _PortaDestino.transform.position.y, 0);
         }
     }
+
+    public void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag == "player")
+        {
+            _ObjetoColidindoComigo = other.name;
+        }
     }
+
+
+    public void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.tag == "player")
+        {
+            _ObjetoColidindoComigo = null;
+        }
+    }
+
+}

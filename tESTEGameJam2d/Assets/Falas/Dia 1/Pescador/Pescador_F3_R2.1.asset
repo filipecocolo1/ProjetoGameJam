@@ -10,7 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: Fala1a
+  m_Name: Pescador_F3_R2
   m_EditorClassIdentifier: 
-  fala: Ok Tome Cuidado
+  fala: "Pescador \u2013 Pode deixar que estarei pescando em quase todos os momentos
+    capit\xE3o, mas sobre o garoto n\xE3o posso prometer nada capit\xE3o HAha, \xE9
+    muito divertido assustar aquele garoto, ele \xE9 jovem e acredita em tudo, n\xE3o
+    sei se vou conseguir resistir Haahaha...\t "
   respostas: []

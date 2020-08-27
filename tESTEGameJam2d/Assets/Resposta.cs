@@ -6,9 +6,5 @@ public class Resposta
 {
     public string resposta;
 
-    public FalaNpc proximafala;
-
-
-
-  
+    public FalaNpc proximafala;  
 }

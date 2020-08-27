@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: Pescador_F2_R1
+  m_EditorClassIdentifier: 
+  fala: "Pescador - Aquela vez foi porque n\xE3o tivemos sorte capit\xE3o, e tamb\xE9m
+    aquela rota n\xE3o era t\xE3o boa para encontrar peixes, mas aquela dieta liquida
+    n\xE3o foi t\xE3o ruim, pelo que eu me lembre. "
+  respostas:
+  - resposta: "Voc\xEA n\xE3o achou ruim a dieta porque bebeu nosso estoque de rum
+      praticamente sozinho e n\xE3o conseguia mais fazer o seu servi\xE7o, n\xE3o
+      \xE9 mesmo?"
+    proximafala: {fileID: 11400000, guid: 18f4ef03ea02ac442a1085ceab3ed0d4, type: 2}
+  - resposta: "S\xF3 tente n\xE3o repetir o vexame que passou da ultima vez, precisamos
+      de duas pessoas pra te tirar da \xE1gua aquele dia."
+    proximafala: {fileID: 11400000, guid: 8cdda87d19a9b3b428dd2b9bdebe2ad4, type: 2}

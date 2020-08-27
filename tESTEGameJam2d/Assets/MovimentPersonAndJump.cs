@@ -9,45 +9,26 @@ public class MovimentPersonAndJump : MonoBehaviour
 
     public InteracaoScript a;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-
-
-    }
-
-    // Update is called once per frame
     void Update()
     {
-        jUMP();
-
+        SubirEscada();
 
         Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), 0f, 0f);
         transform.position += movement * Time.deltaTime * moveSpeed;
     }
 
-    public void jUMP()
+    public void SubirEscada()
     {
 
         if (Input.GetKey(KeyCode.E) && a.subindoEscada == true)
         {
-
-
             gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, 5f), ForceMode2D.Impulse);
             if (gameObject.GetComponent<Rigidbody2D>().velocity.y >= 10)
             {
                 gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(0, 10, 0);
             }
 
-
-
         }
-
-
-
-
-
-
     }
 }
 

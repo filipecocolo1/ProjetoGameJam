@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: Faxineiro_F2_R2
+  m_EditorClassIdentifier: 
+  fala: "Faxineiro - Me d\xEA mais moedas de ouro ent\xE3o pelo bom trabalho! Haha,
+    estou brincando com a sua cara. Quando chegaremos ao destino?"
+  respostas:
+  - resposta: "Se eu por acaso tivesse ao menos para mim, pensaria em te dar um pouco,
+      Argh! Dez dias \xE9 o tempo previsto para chegarmos a ilha. "
+    proximafala: {fileID: 11400000, guid: 729a00ee54ade4e4fb103504ef28e477, type: 2}
+  - resposta: "Se n\xE3o quer ser colocado para andar na prancha n\xE3o deveria brincar
+      assim com o Capit\xE3o. HAHA Estou brincando com a sua cara tamb\xE9m. "
+    proximafala: {fileID: 11400000, guid: f67231c177f1e954ab55425a8e22e953, type: 2}

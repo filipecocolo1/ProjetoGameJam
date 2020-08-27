@@ -10,7 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: Fala1a
+  m_Name: Faxineiro_Looping_D1
   m_EditorClassIdentifier: 
-  fala: Ok Tome Cuidado
+  fala: "[ Parece que o Faxineiro est\xE1 focado em seu servi\xE7o agora... N\xE3o
+    vou incomoda-lo...]"
   respostas: []

@@ -10,14 +10,9 @@ public class DialogoController : MonoBehaviour
     public GameObject respostas;
     public bool falaAtiva = false;
     FalaNpc falas;
+    [HideInInspector]
+    public Dialogo _diAL;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
     void Update()
     {
         if (Input.GetMouseButtonDown(0) && falaAtiva == true) {
@@ -25,15 +20,14 @@ public class DialogoController : MonoBehaviour
             if (falas.respostas.Length > 0)
             {
                 MostrarResposta();
-
-
             }
             else {
+
+                _diAL.dialogoConcluido = true;
                 falaAtiva = false;
                 paineldEDialogo.SetActive(false);
                 FalaNpc.gameObject.SetActive(false);
                 FindObjectOfType<MovimentPersonAndJump>().moveSpeed = 5;
-
 
             }
         
@@ -62,8 +56,7 @@ public class DialogoController : MonoBehaviour
         falaAtiva = true;
         paineldEDialogo.SetActive(true);
         FalaNpc.gameObject.SetActive(true);
-        FalaNpc.text = falas.fala;
-    
+        FalaNpc.text = falas.fala; 
     
     }
 
