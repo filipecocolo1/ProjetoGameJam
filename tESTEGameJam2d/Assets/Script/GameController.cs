@@ -8,7 +8,7 @@ public class GameController : MonoBehaviour
         public  int seg;
     public int min;
     public int dia;
-    public Animator animator;
+
  
     // Start is called before the first frame update
     void Start()
@@ -62,26 +62,7 @@ public class GameController : MonoBehaviour
 
 
     }
-    public void LoadScene(string scena)
-    {
-
-
-
-        if (dia >= 1)
-        {
-            SceneManager.LoadScene(scena);
-
-
-
-
-        }
-
-    }
-    public void PlayGame()
-    {
-        animator.SetTrigger("Main");
-
-    }
+ 
        
 }
 
