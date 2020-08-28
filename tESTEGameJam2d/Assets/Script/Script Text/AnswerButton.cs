@@ -5,26 +5,12 @@ using UnityEngine;
 public class AnswerButton : MonoBehaviour
 {
     Resposta respostaData;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     public void ProximaFala() {
-        FindObjectOfType<DialogoController>().ProximaFala(respostaData.proximafala);
-
-    
+        FindObjectOfType<DialogoController>().ProximaFala(respostaData.proximafala);    
     }
 
     public void Setup(Resposta resposta) {
-        respostaData = resposta;
-    
+        respostaData = resposta;    
     }
 }
