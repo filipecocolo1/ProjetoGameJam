@@ -8,6 +8,7 @@ TagManager:
   - Porta
   - player
   - Npc
+  - transition
   layers:
   - Default
   - TransparentFX
@@ -44,4 +45,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Transition
+    uniqueID: 3477547203
     locked: 0
