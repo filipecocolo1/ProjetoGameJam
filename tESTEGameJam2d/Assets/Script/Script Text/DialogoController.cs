@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class DialogoController : MonoBehaviour
 {
     public GameObject paineldEDialogo;
+    public GameObject CaixaDeTexto;
     public Text FalaNpc;
     public GameObject respostas;
     public bool falaAtiva = false;
@@ -26,6 +27,7 @@ public class DialogoController : MonoBehaviour
                 _diAL.dialogoConcluido = true;
                 falaAtiva = false;
                 paineldEDialogo.SetActive(false);
+                CaixaDeTexto.SetActive(false);
                 FalaNpc.gameObject.SetActive(false);
                 FindObjectOfType<MovimentPersonAndJump>().moveSpeed = 5;
 
@@ -42,8 +44,7 @@ public class DialogoController : MonoBehaviour
         {
             GameObject tempResposta = Instantiate(respostas, paineldEDialogo.transform) as GameObject;
             tempResposta.GetComponent<Text>().text = falas.respostas[i].resposta;
-            tempResposta.GetComponent<AnswerButton>().Setup(falas.respostas[i]);
-        
+            tempResposta.GetComponent<AnswerButton>().Setup(falas.respostas[i]);        
         
         }
     
@@ -54,6 +55,7 @@ public class DialogoController : MonoBehaviour
         falas = fala;
         LimparRespostas();
         falaAtiva = true;
+        CaixaDeTexto.SetActive(true);
         paineldEDialogo.SetActive(true);
         FalaNpc.gameObject.SetActive(true);
         FalaNpc.text = falas.fala; 
@@ -66,8 +68,7 @@ public class DialogoController : MonoBehaviour
         foreach (AnswerButton button in buttons)
         {
             Destroy(button.gameObject);
-        }
-    
+        }   
     
     }
 }
