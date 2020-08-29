@@ -6550,7 +6550,7 @@ MonoBehaviour:
   seg: 0
   min: 0
   dia: 0
-  animator: {fileID: 0}
+  A: {fileID: 0}
 --- !u!114 &588184671
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22622,7 +22622,7 @@ MonoBehaviour:
   seg: 0
   min: 0
   dia: 0
-  animator: {fileID: 0}
+  A: {fileID: 0}
 --- !u!4 &1985667913
 Transform:
   m_ObjectHideFlags: 0

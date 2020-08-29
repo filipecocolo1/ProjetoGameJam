@@ -4,12 +4,11 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class GameController : MonoBehaviour
 {
-     public float cronometro;
-        public  int seg;
+    public float cronometro;
+    public int seg;
     public int min;
     public int dia;
-    public Animator animator;
- 
+    public Animation A;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,13 +19,11 @@ public class GameController : MonoBehaviour
     void Update()
     {
         Relogio();
-        if (dia>=1) {
-           
-            
-            
-            
-            SceneManager.LoadScene("Dia2");
-        
+        if (dia >= 1)
+        {
+
+            SceneManager.LoadScene("fase1");
+
         }
 
 
@@ -36,15 +33,13 @@ public class GameController : MonoBehaviour
 
     public void Relogio()
     {
-
         cronometro += Time.deltaTime;
 
         if (cronometro >= 4)
         {
-
             seg++;
-            cronometro = 0;
 
+            cronometro = 0;
         }
 
         if (seg == 5)
@@ -59,19 +54,14 @@ public class GameController : MonoBehaviour
         {
 
             dia++;
+
             min = 0;
-
-
         }
-
-
-
 
     }
 
-       
-}
 
+}
 
 
 
