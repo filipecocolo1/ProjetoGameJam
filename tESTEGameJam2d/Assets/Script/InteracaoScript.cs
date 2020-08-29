@@ -21,15 +21,11 @@ public class InteracaoScript : MonoBehaviour
             EsbarrouNpc = true;
 
         }
+        if (collision.tag == "Item"){
 
-
-        if (collision.tag == "Item ") { 
-        
-           Pegouitem=true;
-        
-        
-        
+            Pegouitem = true;
         }
+
     
     }
 
