@@ -20,14 +20,22 @@ public class GameController : MonoBehaviour
     void Update()
     {
         Relogio();
-
+        if (dia>=1) {
+           
+            
+            
+            
+            SceneManager.LoadScene("Dia2");
+        
+        }
 
 
     }
 
 
 
-    public void Relogio() {
+    public void Relogio()
+    {
 
         cronometro += Time.deltaTime;
 
@@ -56,32 +64,11 @@ public class GameController : MonoBehaviour
 
         }
 
-      
-
 
 
 
     }
-    public void LoadScene(string scena)
-    {
 
-
-
-        if (dia >= 1)
-        {
-            SceneManager.LoadScene(scena);
-
-
-
-
-        }
-
-    }
-    public void PlayGame()
-    {
-        animator.SetTrigger("Main");
-
-    }
        
 }
 
