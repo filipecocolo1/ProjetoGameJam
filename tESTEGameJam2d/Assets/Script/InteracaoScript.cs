@@ -24,6 +24,8 @@ public class InteracaoScript : MonoBehaviour
         if (collision.tag == "Item"){
 
             Pegouitem = true;
+            Debug.Log("Pegou Item para tal Npc");
+     
         }
 
     
@@ -42,7 +44,15 @@ public class InteracaoScript : MonoBehaviour
             EsbarrouNpc = false;
 
         }
+        if (collision.tag == "Npc")
+        {
+            Pegouitem = false;
+            Debug.Log("Entregou  Item para tal Npc");
 
-    }
 
+        }
+
+
+
+    }  
 }
