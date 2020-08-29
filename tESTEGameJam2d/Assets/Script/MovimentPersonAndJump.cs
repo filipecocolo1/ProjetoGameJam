@@ -9,11 +9,14 @@ public class MovimentPersonAndJump : MonoBehaviour
 
     public InteracaoScript a;
 
+    [HideInInspector]
+    public Vector3 movement;
+
     void Update()
     {
         SubirEscada();
 
-        Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), 0f, 0f);
+        movement = new Vector3(Input.GetAxis("Horizontal"), 0f, 0f);
         transform.position += movement * Time.deltaTime * moveSpeed;
     }
 
