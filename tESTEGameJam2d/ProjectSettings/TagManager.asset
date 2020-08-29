@@ -9,6 +9,7 @@ TagManager:
   - player
   - Npc
   - transition
+  - Item
   layers:
   - Default
   - TransparentFX

@@ -7,6 +7,7 @@ public class InteracaoScript : MonoBehaviour
 {
     public bool subindoEscada = false;
     public bool EsbarrouNpc = false;
+    public bool Pegouitem = false;
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
@@ -19,6 +20,15 @@ public class InteracaoScript : MonoBehaviour
 
             EsbarrouNpc = true;
 
+        }
+
+
+        if (collision.tag == "Item ") { 
+        
+           Pegouitem=true;
+        
+        
+        
         }
     
     }
