@@ -5422,7 +5422,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &428515711
 GameObject:
@@ -15434,6 +15434,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1209848118}
   m_CullTransparentMesh: 0
+--- !u!1 &1210808400 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 651216417510765680, guid: 0e2f410a4340b3044a3ba5c893a3d633,
+    type: 3}
+  m_PrefabInstance: {fileID: 5892297504083246867}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1212093514
 GameObject:
   m_ObjectHideFlags: 0
@@ -27697,7 +27703,7 @@ Transform:
   m_Children:
   - {fileID: 799897038}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1987412611
 GameObject:
@@ -29882,6 +29888,16 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: -0.4
       objectReference: {fileID: 0}
+    - target: {fileID: 651216417531962547, guid: 0e2f410a4340b3044a3ba5c893a3d633,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 651216418135931113, guid: 0e2f410a4340b3044a3ba5c893a3d633,
+        type: 3}
+      propertyPath: _Sprite_Barco_Frente
+      value: 
+      objectReference: {fileID: 1210808400}
     - target: {fileID: 5892297502058616766, guid: 0e2f410a4340b3044a3ba5c893a3d633,
         type: 3}
       propertyPath: m_LocalPosition.x
