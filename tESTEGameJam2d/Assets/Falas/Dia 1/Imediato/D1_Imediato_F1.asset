@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Imediato_F1
+  m_EditorClassIdentifier: 
+  fala: "Imediato \u2013 Bom Dia Senhor! Nenhum problema at\xE9 o momento e tudo
+    indo conforme o planejado.\t"
+  respostas:
+  - resposta: "Muito bem, continue o servi\xE7o e ensine o recruta aquilo que puder,
+      quero velo se tornando algu\xE9m mais respons\xE1vel no final da expedi\xE7\xE3o. "
+    proximafala: {fileID: 0}
+  - resposta: "\xD3timo, em caso de qualquer problema me avise na cabine, e n\xE3o
+      deixe as bebidas em um local de t\xE3o f\xE1cil acesso como normalmente. "
+    proximafala: {fileID: 0}

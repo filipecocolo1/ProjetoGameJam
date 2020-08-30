@@ -10,9 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D1_Recruta_F3_R2.2
+  m_Name: D1_Imediato_F3_R1.1
   m_EditorClassIdentifier: 
-  fala: "Recruta - Fique tranquilo Capit\xE3o, aquelas hist\xF3rias quase nem me
-    assustam, e sempre s\xE3o divertidas de ouvir hihihi. Mas ajudarei sim capit\xE3o,
-    pode deixar. "
+  fala: "Imediato - Se ele fosse como \xE9ramos em sua idade eu provavelmente j\xE1
+    teria o atirado ao mar capit\xE3o HAahaha.. "
   respostas: []

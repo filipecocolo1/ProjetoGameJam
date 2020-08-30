@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Imediato_F1_B
+  m_EditorClassIdentifier: 
+  fala: "Imediato \u2013 Bom Dia Senhor! Nenhum problema at\xE9 o momento e tudo
+    indo conforme o planejado.\t"
+  respostas:
+  - resposta: "\xD3timo, n\xE3o gosto muito da ideia do in\xEDcio da jornada j\xE1
+      contendo imprevistos. O recruta tem feito um bom trabalho? "
+    proximafala: {fileID: 11400000, guid: 6929d5cf5acd66a46af5336000dc7981, type: 2}
+  - resposta: "Excelente, se tudo ocorrer como o previsto em dez dias j\xE1 estaremos
+      com o tesouro em m\xE3os. "
+    proximafala: {fileID: 11400000, guid: 7774327a8a435874aac6b8dc18b39f53, type: 2}

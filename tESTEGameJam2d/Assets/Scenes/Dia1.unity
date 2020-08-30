@@ -28309,8 +28309,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   falas:
+  - {fileID: 11400000, guid: 48a1fa9e2b582f2448ad44830dab5d09, type: 2}
   - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 9f2fd7a51686068449fc7c9887e4ca33, type: 2}
   dialogoConcluido: 0
   ObJETOcOLL: 
 --- !u!1 &1654839381

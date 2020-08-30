@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Imediato_F2_R2_B
+  m_EditorClassIdentifier: 
+  fala: "Imediato - Espero que este tesouro tenha um resultado positivo, j\xE1 seguimos
+    algumas pistas que terminaram em algumas perdas no barco, n\xE3o gostaria que
+    isto acontecesse novamente. "
+  respostas:
+  - resposta: "A nossa profiss\xE3o sempre trabalha com este risco, entenda que se
+      esta informa\xE7\xE3o for verdade ser\xE1 uma virada em nossas vidas, e se
+      n\xE3o for, s\xF3 dez dias perdidos. "
+    proximafala: {fileID: 11400000, guid: 9fd592f20a8d97d4e80604d672ce3a5a, type: 2}
+  - resposta: "Alguns riscos devem ser tomados quando se busca a riqueza, voc\xEA
+      n\xE3o precisa se preocupar com isto. "
+    proximafala: {fileID: 11400000, guid: 9fd592f20a8d97d4e80604d672ce3a5a, type: 2}
