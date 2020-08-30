@@ -10,8 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D1_Papa_F4_R2.2_B
+  m_Name: D1_Coz_F3_R1.1
   m_EditorClassIdentifier: 
-  fala: "Irm\xE3o - Bom, eu ainda vou mante-lo como plano B, n\xE3o quero deixar
-    o governo pegar o pouco que me restou... \u201CDar no p\xE9, dar no p\xE9\u201D~papagaio "
+  fala: "Cozinheiro \u2013 N\xE3o estou sendo duro com ele capit\xE3o, j\xE1 sou
+    amigo dele o suficiente para entender que ele n\xE3o pesca porque bebe e n\xE3o
+    sabe mais o que est\xE1 fazendo no momento, mas sua habilidade de ver o clima
+    \xE9 realmente boa. Bom vou voltar a cozinhar, at\xE9 a hora da janta capit\xE3o... "
   respostas: []

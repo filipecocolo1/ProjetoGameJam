@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Coz_F1
+  m_EditorClassIdentifier: 
+  fala: "Cozinheiro - Um \xF3timo dia para come\xE7ar a jornada, n\xE3o \xE9 mesmo?
+    Acabei de checar os suprimentos e, mesmo que aquele pescador n\xE3o seja \xFAtil
+    na viagem, temos suprimentos que podem durar at\xE9 8 dias sem problemas, sendo
+    eles utilizados corretamente haha. "
+  respostas:
+  - resposta: "Com certeza come\xE7amos com a perna direita HAHAHA, a viagem n\xE3o
+      ser\xE1 t\xE3o longa desta vez ent\xE3o, mesmo que precisemos segurar um pouco
+      a fome no final sei que a hora da comida ser\xE1 uma das melhores com suas
+      especiarias haha. "
+    proximafala: {fileID: 11400000, guid: 11495eaeda3b5844bae1045a593c4a9a, type: 2}
+  - resposta: "Muito bom come\xE7o mesmo, mas quanto ao pescador n\xE3o se preocupe,
+      o ouvi comemorando algumas horas depois de partirmos, creio que o tanque j\xE1
+      deva ter um ou dois peixes  "
+    proximafala: {fileID: 11400000, guid: 63116f5479e54f544988a3bb85d6e52b, type: 2}

@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D1_Papa_F4_R2.2_B
+  m_Name: D1_Coz_F3_R2
   m_EditorClassIdentifier: 
-  fala: "Irm\xE3o - Bom, eu ainda vou mante-lo como plano B, n\xE3o quero deixar
-    o governo pegar o pouco que me restou... \u201CDar no p\xE9, dar no p\xE9\u201D~papagaio "
+  fala: "Cozinheiro - N\xE3o haver\xE1 problemas desta vez capit\xE3o, todos agora
+    sabem que n\xE3o se deve atacar uma panela sem saber o que est\xE1 nela, n\xE3o
+    creio que os tripulantes tenham este tipo de curiosidade mais haha. "
   respostas: []

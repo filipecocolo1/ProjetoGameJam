@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Coz_F2_R1
+  m_EditorClassIdentifier: 
+  fala: "Cozinheiro - O senhor n\xE3o deveria trazer tal pessoa na expedi\xE7\xE3o,
+    ele sempre tem problemas com bebida e nunca \xE9 um bom pescador.... Mas sobre
+    as especiarias, Sim!!! J\xE1 estou come\xE7ando a preparar a comida do dia 7
+    hoje haha. "
+  respostas:
+  - resposta: "Voc\xEA sabe que a parte pescadora \xE9 s\xF3 um b\xF4nus, j\xE1 que
+      ele consegue reconhecer o tempo como ningu\xE9m na cidade, nunca ouve uma tempestade
+      que ele n\xE3o tivesse avisado a tempo, mesmo que ele n\xE3o pesque muito n\xE3o
+      precisa ser duro com ele chef."
+    proximafala: {fileID: 11400000, guid: 25bb57467a841864a964525bca7281a6, type: 2}
+  - resposta: "J\xE1 nos acostumamos com sua presen\xE7a a um ponto que fica dif\xEDcil
+      sem ele a bordo, ainda mais em alto mar com climas mudando em minutos... Mas,
+      como assim j\xE1 est\xE1 preparando a comida do dia 7? "
+    proximafala: {fileID: 11400000, guid: e4f8c1e3fe929864d82b1bd17c6adb63, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Coz_F2_R1_B
+  m_EditorClassIdentifier: 
+  fala: "Cozinheiro - Creio que o senhor vai gostar da comida dessa expedi\xE7\xE3o
+    capit\xE3o, chegou um carregamento de especiarias do novo continente que s\xE3o
+    excelentes, j\xE1 testei os pratos em minha resid\xEAncia desta vez, n\xE3o teremos
+    o mesmo problema de antes. "
+  respostas:
+  - resposta: "Voc\xEA sabe que aquele \u201Cproblema de antes quase custou a vida
+      da tripula\xE7\xE3o, s\xF3 sobrevivemos por chegarmos a tempo na cidade, n\xE3o
+      ter\xEDamos aguentado mais 1 dia no mar com tanto mal estar de toda a tripula\xE7\xE3o,
+      nunca mais repita aquela receita cozinheiro, \xE9 uma ordem. "
+    proximafala: {fileID: 11400000, guid: b49083f12d9004f41bb2c623c1c9329c, type: 2}
+  - resposta: "N\xE3o quero ser surpreso com dores e diarreia como da ultima vez,
+      n\xE3o repita o mesmo erro de antes, n\xF3s te perdoamos aquela vez, mas uma
+      outra...  "
+    proximafala: {fileID: 11400000, guid: f19ffa7f5e9d292449a8803681bb9357, type: 2}

@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D1_Papa_F4_R2.2_B
+  m_Name: D1_Coz_EndLoop
   m_EditorClassIdentifier: 
-  fala: "Irm\xE3o - Bom, eu ainda vou mante-lo como plano B, n\xE3o quero deixar
-    o governo pegar o pouco que me restou... \u201CDar no p\xE9, dar no p\xE9\u201D~papagaio "
+  fala: "[Ele tirou algumas facas de seu avental e agora est\xE1 amolando elas...
+    N\xE3o vou atrapalha-lo]"
   respostas: []
