@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Pes_F3_R2
+  m_EditorClassIdentifier: 
+  fala: "Pescador  \u2013 Pode deixar capit\xE3o, estou terminando de me recuperar
+    da ressaca que j\xE1 voltarei ao meu posto, ah e \xE9 melhor fazermos a volta
+    nessas \xE1guas, perderemos algumas horas mas te uma tempestade se formando a
+    uns 40 minutos de distancia \xE9 melhor dar a volta. "
+  respostas: []

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: PR2
+  m_EditorClassIdentifier: 
+  fala: "Pescador \u2013 Realmente o mar n\xE3o perdoa aqueles que s\xE3o fracos,
+    \xE9 melhor que a lamenta\xE7\xE3o fique para o final da jornada. "
+  respostas:
+  - resposta: "N\xE3o me venha com essa conversa homem e recomponha se, s\xF3 estamos
+      em tr\xEAs e n\xE3o quero que um deles seja imprest\xE1vel. "
+    proximafala: {fileID: 11400000, guid: eee4c355f3f876a479a73c7ba56eb5da, type: 2}
+  - resposta: "Pare agora de frescura e fa\xE7a algo na embarca\xE7\xE3o al\xE9m
+      de beber, deixe de frescura homem. "
+    proximafala: {fileID: 11400000, guid: 8390f5b6c29233f40b7409ed4cd5074a, type: 2}

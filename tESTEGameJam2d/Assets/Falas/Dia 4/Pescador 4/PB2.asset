@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: PB2
+  m_EditorClassIdentifier: 
+  fala: "Pescador \u2013 N\xE3o falo como supersti\xE7\xE3o do tesouro, mas que essa
+    jornada s\xF3 est\xE1 no deixando no preju\xEDzo n\xE3o se pode negar capit\xE3o... "
+  respostas:
+  - resposta: "J\xE1 nos envolvemos muito nisso para parar agora, tente se recompor,
+      e me mantenha informado sobre o clima... "
+    proximafala: {fileID: 11400000, guid: 30940a00f794ce948b45eceff06ed1c2, type: 2}
+  - resposta: "Entendo seu ponto marujo, mas como capit\xE3o n\xE3o posso desistir
+      agora, tente se recompor e me informe caso algo aconte\xE7a no mar ou rota. "
+    proximafala: {fileID: 11400000, guid: f575853f5018e45419eadba6a0ce1369, type: 2}

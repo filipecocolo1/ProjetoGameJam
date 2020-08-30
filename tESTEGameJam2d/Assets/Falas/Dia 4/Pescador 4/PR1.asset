@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: PR1
+  m_EditorClassIdentifier: 
+  fala: "Pescador  \u2013 Pe\xE7o perd\xE3o capit\xE3o, \xE9 que eu conhecia a fam\xEDlia
+    dele e n\xE3o consigo imaginar uma raz\xE3o para tudo isso estar acontecendo. "
+  respostas:
+  - resposta: "Tente ocupar sua cabe\xE7a com trabalho que n\xE3o ter\xE1 tempo para
+      pensar essas bobagens, deixe as condol\xEAncias para o fim da jornada. "
+    proximafala: {fileID: 11400000, guid: 1f8c71f9dd39b1049bdd81948cbbe4eb, type: 2}
+  - resposta: "Pare de pensar sobre isso agora mesmo, vai acabar ficando louco se
+      perser tempo com isso, ocupe a mente com qualquer outra coisa, n\xE3o quero
+      perder mais um... "
+    proximafala: {fileID: 11400000, guid: 0d8ee2f4f0dad3b4aa1974af09b82b5c, type: 2}
