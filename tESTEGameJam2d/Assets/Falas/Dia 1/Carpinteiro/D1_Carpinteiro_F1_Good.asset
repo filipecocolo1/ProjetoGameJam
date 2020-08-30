@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Carpinteiro_F1_Good
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro - Bom dia Capit\xE3o, hoje tivemos a sorte de poder zarpar com
+    um c\xE9u limpo e sem chances de chuva n\xE3o, um \xF3timo come\xE7o para a jornada
+    HAHA."
+  respostas:
+  - resposta: "Pois \xE9 meu caro, se o clima continuar assim \xE9 prov\xE1vel que
+      sua viagem seja tranquila sem quase nenhum servi\xE7o haha. "
+    proximafala: {fileID: 11400000, guid: ac322e32bbcbb894299987a8bef4ae96, type: 2}
+  - resposta: "Tivemos sorte realmente, espero que o tempo continue assim at\xE9
+      o fim da viagem, n\xE3o quero nosso barco enfrentando tempestades por algo
+      ainda t\xE3o incerto. "
+    proximafala: {fileID: 11400000, guid: 3034442e9e5a4d3429a6ce1de7254bc9, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Coz_F2_R1
+  m_EditorClassIdentifier: 
+  fala: "Cozinheiro - Realmente a promessa dessa expedi\xE7\xE3o \xE9 muito grande,
+    uma pena pelo garoto, mas a vida segue, tomemos um drink por ele ap\xF3s a expedi\xE7\xE3o. "
+  respostas:
+  - resposta: "Sim, logo teremos a resposta para isso, mas com certeza esta expedi\xE7\xE3o
+      vai valer a pena, e um drink pelo garoto n\xF3s iremos dividir... "
+    proximafala: {fileID: 11400000, guid: 0c1d691fed5d0e5458027d5369e47a6d, type: 2}
+  - resposta: "Uma grande recompensa com certeza nos espera no fim, infelizmente
+      era a primeira viagem do garoto e ele n\xE3o estava preparado para tanto, mas
+      enfim. Espero uma boa refei\xE7\xE3o como a de ontem. "
+    proximafala: {fileID: 11400000, guid: 34fde57554bf77d409dee0aa259765ab, type: 2}

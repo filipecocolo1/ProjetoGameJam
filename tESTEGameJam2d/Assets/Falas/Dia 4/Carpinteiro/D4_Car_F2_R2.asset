@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D4_Car_F2_R2
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro \u2013 Hahaha, eu sabia. Tentei encontrar outra pessoa para
+    cozinhar ent\xE3o que irei logo assim que eu terminar o que estou fazendo. N\xE3o
+    quero ter que cozinhar novamente hahaha. "
+  respostas:
+  - resposta: "Eu tamb\xE9m n\xE3o gostaria de velo na cozinha novamente hahaha,
+      ainda sinto um mal estar s\xF3 de lembrar da comida de ontem... "
+    proximafala: {fileID: 11400000, guid: d310a4ad778ba2c48a4d4d15cc63d7a9, type: 2}
+  - resposta: "Sim, pode deixar que encontrarei outra pessoa para fazer este servi\xE7o,
+      fique tranquilo. Contarei com voc\xEA daqui em diante marujo...  "
+    proximafala: {fileID: 11400000, guid: 701bf41539f0dff49982cf412c4e6615, type: 2}

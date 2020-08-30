@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Recruta_F2_R1
+  m_EditorClassIdentifier: 
+  fala: "Recruta - Tudo em ribas capit\xE3o, o primeiro imediato \xE9 um pouco impiedoso,
+    mas estou come\xE7ando a entender minha fun\xE7\xE3o. "
+  respostas:
+  - resposta: "Ele est\xE1 o ensinando como foi ensinado a ele, se aprender o que
+      ele te ensina voc\xEA vir\xE1 a ser um grande marujo um dia. "
+    proximafala: {fileID: 11400000, guid: ec9d45e03df02074cb922e39faa45749, type: 2}
+  - resposta: "N\xE3o o culpe por seus m\xE9todos, ele est\xE1 lhe ensinado da forma
+      que acha melhor, com o tempo ele ser\xE1 mais amig\xE1vel com voc\xEA recruta,
+      fique tranquilo. "
+    proximafala: {fileID: 11400000, guid: 90914e8d0df113148ac6525fffc30b2a, type: 2}

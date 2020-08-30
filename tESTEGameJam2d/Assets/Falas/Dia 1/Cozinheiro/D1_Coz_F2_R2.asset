@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Coz_F2_R2
+  m_EditorClassIdentifier: 
+  fala: "Cozinheiro - Um ou dois peixes n\xE3o alimentam um dia da nossa tripula\xE7\xE3o
+    se for do tamanho de costume haha, mas posso preparar um ensopado para n\xE3o
+    desperdi\xE7ar. "
+  respostas:
+  - resposta: "N\xE3o seja t\xE3o duro com ele, ele sempre faz o melhor quando n\xE3o
+      est\xE1 b\xEAbado haha, mas qualquer comida que voc\xEA prepare j\xE1 ser\xE1
+      excelente, descobri gostar de coisas que nunca imaginei comer por sua culin\xE1ria. "
+    proximafala: {fileID: 11400000, guid: 8b03da8201ee13e438f4a2a0a9e71048, type: 2}
+  - resposta: "Mas com o estoque cheio como est\xE1 n\xE3o devemos ter problemas
+      mesmo assim, o estoque de comida que voc\xEA escolheu deve ser o suficiente... "
+    proximafala: {fileID: 11400000, guid: a1ea8ea03e485d74e9b4d9d4b27eeb4d, type: 2}

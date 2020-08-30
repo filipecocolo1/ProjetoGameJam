@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D4_Car_F2_R2_B
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro \u2013 Hahha, essa cara mostra o quanto lutei para ser quem
+    sou hoje capit\xE3o, agrade\xE7o seu elogio HAHAha "
+  respostas:
+  - resposta: "Vejo que nada vai abalar essa sua autoestima... Vamos logo ao trabalho,
+      ele tem se acumulado desde a manh\xE3. "
+    proximafala: {fileID: 11400000, guid: fbb1668a0dbce264ebda88df46789901, type: 2}
+  - resposta: "Hahaha, de qualquer forma precisamos ir ao trabalho, j\xE1 perdemos
+      tempo demais conversando. "
+    proximafala: {fileID: 11400000, guid: a74a02fe74b3b364a933f8744ed2b9ee, type: 2}

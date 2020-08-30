@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Papa_F1
+  m_EditorClassIdentifier: 
+  fala: "Irm\xE3o - Bom dia irm\xE3o, \u201CBom diaaaaaa\u201D~papagaio, obrigado
+    pela oportunidade de me juntar a sua embarca\xE7\xE3o, sabe que minha perda recente
+    me deixou com v\xE1rias dividas haha... "
+  respostas:
+  - resposta: "N\xE3o se preocupe com isto irm\xE3o, se tudo der certo na expedi\xE7\xE3o
+      voc\xEA poder\xE1 at\xE9 comprar um novo barco no final, pense nesta tripula\xE7\xE3o
+      como uma fam\xEDlia tamb\xE9m.\t "
+    proximafala: {fileID: 0}
+  - resposta: "Eu n\xE3o poderia deixar meu irm\xE3o que acaba de perder a tripula\xE7\xE3o
+      e o barco sem rumo na cidade, tenha esperan\xE7a irm\xE3o, dias melhores est\xE3o
+      por vir. "
+    proximafala: {fileID: 0}

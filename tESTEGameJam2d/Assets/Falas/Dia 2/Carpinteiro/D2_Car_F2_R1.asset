@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Car_F2_R1
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro \u2013 Eu sei que se n\xE3o formos r\xE1pidos esse tesouro pode
+    escapar de nossas m\xE3os, mas que foi estranho foi. E isto pode ser um sinal...  "
+  respostas:
+  - resposta: "Eu espero que n\xE3o meu caro amigo, n\xE3o gostaria de viver com
+      mais perdas em minhas costas, esta perna j\xE1 n\xE3o aguenta quase o meu pr\xF3prio
+      peso haha. "
+    proximafala: {fileID: 11400000, guid: 83c28f553b1d3b147b57b7a6bde5a37c, type: 2}
+  - resposta: "N\xE3o gosto muito desses sinais que voc\xEA fala, mesmo eu n\xE3o
+      acreditando, s\xF3 de menciona-los j\xE1 me deixa com um gosto ruim em minha
+      boca... "
+    proximafala: {fileID: 11400000, guid: a02451359b9f6894786ef546801fb164, type: 2}

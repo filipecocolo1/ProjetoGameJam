@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D4_Fax_F1
+  m_EditorClassIdentifier: 
+  fala: "Faxineiro - Senhor capit\xE3o! Est\xE1 um caos, agora o primeiro imediato
+    sumiu, o navio acabou pegando outra rota mas j\xE1 tentamos ajustar. "
+  respostas:
+  - resposta: 'O que!? Por Kraken! Sabe quanto tempo perdemos nisso? '
+    proximafala: {fileID: 11400000, guid: cc1c27ba5f2b52c4098851c43be8d5ea, type: 2}
+  - resposta: "Isso n\xE3o \xE9 problema, nosso problema maior \xE9 quem est\xE1
+      fazendo essas atrocidades. "
+    proximafala: {fileID: 11400000, guid: fe6f00556d90a8d4ab1c0d0c8d3185c1, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Imediato_F2_R2
+  m_EditorClassIdentifier: 
+  fala: "Imediato - Pode deixar senhor, e sobre as bebidas j\xE1 pedi ao recruta
+    que as colocasse abaixo dos gr\xE3os, aquele pescador n\xE3o deve encontrar os
+    barris t\xE3o facilmente. "
+  respostas:
+  - resposta: "Aquele pescador sente o cheiro da bebida de longe, n\xE3o o subestime
+      hahaha, s\xF3 n\xE3o quero que a bebida acabe antes do fim da expedi\xE7\xE3o,
+      um pouco de \xE1lcool antes de dormir \xE9 sempre bom... "
+    proximafala: {fileID: 11400000, guid: 929aa46b1a9b93b4cace23b836d43e96, type: 2}
+  - resposta: 'Muito bem, espero que isto seja o suficiente com aquela besta viciada
+      em bebida hahaah. '
+    proximafala: {fileID: 11400000, guid: 31fa9eb3a189886489edab028265d2fc, type: 2}

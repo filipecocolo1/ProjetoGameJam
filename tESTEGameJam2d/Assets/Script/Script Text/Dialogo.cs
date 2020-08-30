@@ -8,36 +8,72 @@ public class Dialogo : MonoBehaviour
     public bool dialogoConcluido = false;
     DialogoController dialogocontroller;
     public string ObJETOcOLL;
+
     GameObject Player;
+    Transform _SpritePlayer;
+
+    private bool beGood;
 
     void Start()
     {
         Player = GameObject.Find("Personagem");
         dialogocontroller = FindObjectOfType<DialogoController>();
+        _SpritePlayer = GameObject.Find("Capítão").GetComponent<Transform>();
     }
 
     void Update()
     {
+
+        if (_SpritePlayer.transform.localScale.x == -1)
+        {
+            beGood = true;
+        } else
+        {
+            beGood = false;
+        }
+
         if (ObJETOcOLL == "Personagem")
         {
             if (Input.GetKeyDown(KeyCode.E))
             {
 
-                Player.GetComponent<MovimentPersonAndJump>().moveSpeed = 0;
-                dialogocontroller._diAL = this.GetComponent<Dialogo>();
-
-                if (!dialogoConcluido)
+                if (beGood)
                 {
-                    dialogocontroller.ProximaFala(falas[0]);
+
+                    Player.GetComponent<MovimentPersonAndJump>().moveSpeed = 0;
+                    dialogocontroller._diAL = this.GetComponent<Dialogo>();
+
+                    if (!dialogoConcluido)
+                    {
+                        dialogocontroller.ProximaFala(falas[0]);
+                    }
+                    else
+                    {
+                        dialogocontroller.ProximaFala(falas[2]);
+                    }
+
                 }
                 else
                 {
-                    dialogocontroller.ProximaFala(falas[1]);
-                }
+                    Player.GetComponent<MovimentPersonAndJump>().moveSpeed = 0;
+                    dialogocontroller._diAL = this.GetComponent<Dialogo>();
 
-            
+                    if (!dialogoConcluido)
+                    {
+                        dialogocontroller.ProximaFala(falas[1]);
+                    }
+                    else
+                    {
+                        dialogocontroller.ProximaFala(falas[2]);
+                    }
+                }
             }
+
+
+
         }
+
+
     }
     public void OnTriggerStay2D(Collider2D other)
     {
@@ -50,4 +86,10 @@ public class Dialogo : MonoBehaviour
         if (other.CompareTag("player"))       
             ObJETOcOLL = null;
     }
+
+    private void LadoQuePlayerEstaOlhando()
+    {
+
+    }
+
  }

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D3_Car_F2_R1_B
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro - Pe\xE7o perd\xE3o capit\xE3o, \xE9 que realmente \xE9 estranho,
+    mas n\xE3o comentarei mais nada, seguirei com meu servi\xE7o senhor. "
+  respostas:
+  - resposta: "Antes disso marujo, gostaria que voc\xEA arrumasse tempo para ocupar
+      o cargo recentemente vago, afinal todos precisamos comer. "
+    proximafala: {fileID: 11400000, guid: 0d2bd36e7ab7e6a4199af14850774120, type: 2}
+  - resposta: "Ap\xF3s o seu servi\xE7o quero que veja com os outros quem ir\xE1
+      ocupar o cargo de cozinheiro no navio, n\xE3o tenho tempo livre para decidir
+      qual de voc\xEAs tem mais tempo livre... "
+    proximafala: {fileID: 11400000, guid: e74d5962ddc432c48aebc8794474574c, type: 2}

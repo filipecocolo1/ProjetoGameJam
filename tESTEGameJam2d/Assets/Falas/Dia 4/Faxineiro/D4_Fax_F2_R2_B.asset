@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D4_Fax_F2_R2_B
+  m_EditorClassIdentifier: 
+  fala: "Faxineiro - Uma op\xE7\xE3o? Qual?.. "
+  respostas:
+  - resposta: "Voc\xEAs s\xE3o extremamente medrosos e in\xFAteis, est\xE3o caindo
+      do barco. "
+    proximafala: {fileID: 11400000, guid: 7ae6178e529a27f47bc7120440c6acc2, type: 2}
+  - resposta: "Temos um traidor entre n\xF3s. "
+    proximafala: {fileID: 11400000, guid: 6d9d72e0dfe43df43a59b7112ad55200, type: 2}

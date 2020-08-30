@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Imediato_F2_R1_B
+  m_EditorClassIdentifier: 
+  fala: "Imediato - O recruta tem feito um trabalho bom, pela sua idade e inexperi\xEAncia
+    na \xE1rea, tivemos um problema ou outro, mas j\xE1 o repreendi e ensinei da
+    forma correta o que ele errou. "
+  respostas:
+  - resposta: "Lembre de ensina-lo corretamente, n\xE3o quero meu barco quebrado
+      por culpa de um tripulante meu, entendido? "
+    proximafala: {fileID: 11400000, guid: 9fd592f20a8d97d4e80604d672ce3a5a, type: 2}
+  - resposta: "N\xE3o deixe estes problemas passarem em branco, lembre-o e ensine-o
+      bem, n\xE3o quero que ele se torne um marujo de m\xE1 qualidade com o passar
+      do tempo. "
+    proximafala: {fileID: 11400000, guid: 9fd592f20a8d97d4e80604d672ce3a5a, type: 2}

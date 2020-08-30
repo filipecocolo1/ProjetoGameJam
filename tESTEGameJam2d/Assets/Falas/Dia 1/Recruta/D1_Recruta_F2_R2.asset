@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Recruta_F2_R2
+  m_EditorClassIdentifier: 
+  fala: "Recruta - Neste momento eu estava indo ajudar o pescador que acabou de fazer
+    uma grande pesca, precisa de alguma coisa capit\xE3o? "
+  respostas:
+  - resposta: "N\xE3o, n\xE3o, s\xF3 estava chegando se voc\xEA estava sem servi\xE7o
+      algum logo em seu primeiro dia HAha, mantenha este tipo de atitude garoto. "
+    proximafala: {fileID: 11400000, guid: 056405bed5b19544c9cba9f56291b995, type: 2}
+  - resposta: "Muito bem garoto, sempre ajude aqueles que precisarem no barco, mas
+      n\xE3o ligue tanto para os contos do pescador, ele sempre acaba aumentando
+      qualquer acontecimento em sua vida quando o conta para outros Hahaha. "
+    proximafala: {fileID: 11400000, guid: d71cf4143b38e514496116bf957011a9, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D3_Fax_F2_R2_B
+  m_EditorClassIdentifier: 
+  fala: "Faxineiro - O que est\xE1 dizendo!? A sopinha era dos deuses. Mas o que
+    faremos sobre o cozinheiro?  "
+  respostas:
+  - resposta: "N\xE3o me importa se a sopa que ele fazia era boa ou n\xE3o. Meus
+      tripulantes est\xE3o sumindo! Irei decidir ainda o que farei sobre isso, volte
+      ao trabalho! "
+    proximafala: {fileID: 11400000, guid: d935565a3b08cfa488d43b7c329152c4, type: 2}
+  - resposta: "Isso n\xE3o faz diferen\xE7a agora que ele sumiu. Espero que diga
+      se por acaso achar algo diferente no navio. "
+    proximafala: {fileID: 11400000, guid: 5f7247ba1c9c8014ca90bf4e69342d85, type: 2}

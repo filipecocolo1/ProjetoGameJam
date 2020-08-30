@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Papa_F2_R2_B
+  m_EditorClassIdentifier: 
+  fala: "Irm\xE3o - Espero que sim, se eu n\xE3o pagar o banco at\xE9 o fim do ano
+    terei, provavelmente, que mudar de cidade, o banco tentar\xE1 pegar todos os
+    meus bens... "
+  respostas:
+  - resposta: "Acredite no meu informante irm\xE3o, terminaremos esta expedi\xE7\xE3o
+      ricos haha. "
+    proximafala: {fileID: 11400000, guid: c306d01a6a90bb240abb31cb931d4723, type: 2}
+  - resposta: "N\xE3o seja t\xE3o pessimista irm\xE3o esta expedi\xE7\xE3o vai ser
+      lucrativa e voc\xEA n\xE3o ir\xE1 ter que fugir da cidade  "
+    proximafala: {fileID: 11400000, guid: 4f9f31025c369d14ca91800ef279a3e6, type: 2}

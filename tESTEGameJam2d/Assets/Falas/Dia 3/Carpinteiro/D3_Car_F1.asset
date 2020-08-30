@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D3_Car_F1
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro \u2013 Primeiro o Recruta e agora o Cozinheiro Capit\xE3o, algo
+    muito estranho est\xE1 acontecendo nesse barco, voc\xEA saberia de algo capit\xE3o? "
+  respostas:
+  - resposta: "Eu ainda estou a procurar por pistas e at\xE9 o momento nenhuma me
+      apareceu. Caso algo seja encontrado reunirei todos no conv\xE9s. "
+    proximafala: {fileID: 11400000, guid: 03a86c67de68e7347af781dc1419c56b, type: 2}
+  - resposta: "Nada at\xE9 o momento, \xE9 um mist\xE9rio para mim tamb\xE9m principalmente
+      o Cozinheiro, mas infelizmente j\xE1 estamos em um ponto que n\xE3o daria para
+      voltar \xE0 cidade, temos que seguir.  "
+    proximafala: {fileID: 11400000, guid: 5e285b4b046dafb40ae37fe407245ca5, type: 2}

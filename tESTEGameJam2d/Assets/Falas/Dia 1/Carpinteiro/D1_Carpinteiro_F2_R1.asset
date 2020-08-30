@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Carpinteiro_F2_R1
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro - Meu trabalho nunca acaba nesse barco capit\xE3o, se n\xE3o
+    estou reparando o barco estou fazendo utens\xEDlios para tal, cadeiras, mesas
+    e talheres. Pode ficar tranquilo com rela\xE7\xE3o a isso. "
+  respostas:
+  - resposta: "S\xF3 n\xE3o lote nosso barco com suas cria\xE7\xF5es, j\xE1 que se
+      nossa pista estiver certa, precisaremos de espa\xE7o para nossos tesouros no
+      barco. "
+    proximafala: {fileID: 11400000, guid: 5d2c5408dc9eff54880899bebb7b7378, type: 2}
+  - resposta: "J\xE1 que est\xE1 trabalhando com outros utens\xEDlios tamb\xE9m poderia
+      ver se pode arrumar minha cama, ela tem me dado certa dor nas costas nas ultimas
+      viagens, o que me d\xE1 certos problemas na manh\xE3 seguinte. "
+    proximafala: {fileID: 11400000, guid: 7481598884db38d479e713a53e994dbc, type: 2}

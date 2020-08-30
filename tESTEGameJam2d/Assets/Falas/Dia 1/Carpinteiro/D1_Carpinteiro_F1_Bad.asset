@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Carpinteiro_F1_Bad
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro - Bom dia Capit\xE3o, hoje tivemos a sorte de poder zarpar com
+    um c\xE9u limpo e sem chances de chuva n\xE3o, um \xF3timo come\xE7o para a jornada
+    HAHA. "
+  respostas:
+  - resposta: "N\xE3o se esgane, estas \xE1guas s\xE3o trai\xE7oeiras, j\xE1 perdi
+      a conta de quantas vezes o tempo virou em quest\xE3o de minutos. "
+    proximafala: {fileID: 11400000, guid: 2d77b83698980f2408d70864287cc8c2, type: 2}
+  - resposta: "Um come\xE7o tranquilo pode levar h\xE1 um final tr\xE1gico, nunca
+      fique desatento nos mares. "
+    proximafala: {fileID: 11400000, guid: 82bccb9897e216c4b91e2767014f605c, type: 2}

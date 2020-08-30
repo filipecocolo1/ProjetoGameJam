@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Coz_F1_B
+  m_EditorClassIdentifier: 
+  fala: "Cozinheiro - Ainda nenhum sinal do recruta capit\xE3o? Eu s\xF3 lembro de
+    velo na hora da janta antes da divis\xE3o de turnos. "
+  respostas:
+  - resposta: "Sim, uma pena, mas infelizmente ainda n\xE3o \xE9 o momento de pensar
+      sobre isso, ele veio ao mar sabendo os riscos, n\xE3o devemos atrapalhar nossa
+      jornada por ele, ele entenderia. "
+    proximafala: {fileID: 11400000, guid: 82090d7266f79b647a51979531b9c32c, type: 2}
+  - resposta: "\xC9 triste, por\xE9m n\xE3o h\xE1 nada que eu possa fazer em rela\xE7\xE3o
+      a isso, se ele sumiu deve ter desistido da vida, infelizmente. "
+    proximafala: {fileID: 11400000, guid: 84092446b894ae6489e97bbfd77ba7db, type: 2}

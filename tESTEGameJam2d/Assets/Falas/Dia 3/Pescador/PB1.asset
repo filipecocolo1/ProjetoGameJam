@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: PB1
+  m_EditorClassIdentifier: 
+  fala: "Pescador  \u2013 O clima, tirando a tempestade que desviamos ontem, n\xE3o
+    mudou muito, talvez as ondas fiquem mais fortes na parte da noite, mas isso irei
+    poder confirmar s\xF3 em algumas horas. "
+  respostas:
+  - resposta: "Muito bem, ao menos alguma boa not\xEDcia... E alguma coisa pescada
+      nesse meio tempo? "
+    proximafala: {fileID: 11400000, guid: f5691570d4710294f8afcc35f5e2ec0e, type: 2}
+  - resposta: "Me avise em caso de qualquer mudan\xE7a, n\xE3o quero enfrentar uma
+      tempestade com este \u201Cclima\u201D no barco... "
+    proximafala: {fileID: 11400000, guid: de800655bb40c0f4da6464fdb3177185, type: 2}

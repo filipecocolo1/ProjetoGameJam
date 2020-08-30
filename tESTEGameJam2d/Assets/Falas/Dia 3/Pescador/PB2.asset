@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: PB2
+  m_EditorClassIdentifier: 
+  fala: "Pescador  \u2013 N\xE3o se culpe capit\xE3o, todos que v\xE3o ao mar sabem
+    os perigos que acompanham. Mudando de assunto, acabo de pescar uma tartaruga
+    marinha, posso manter meu titulo de pescador por mais um dia Haha. "
+  respostas:
+  - resposta: "Por essa eu n\xE3o esperava Hahaah, ao menos algu\xE9m esta cada vez
+      melhor nessa viagem, algo pescado em dois de tr\xEAs dias \xE9 uma novidade
+      Hahaha.  "
+    proximafala: {fileID: 11400000, guid: bc7882faff7607e4b90f6a3fab36bb64, type: 2}
+  - resposta: "Finalmente uma boa not\xEDcia, tente cozinha-la para hoje ou amanh\xE3,
+      agora acredito que voc\xEA seja o que mais sabe sobre o preparo dessas criaturas... "
+    proximafala: {fileID: 11400000, guid: cef46597a6b20954ba0045d4e9030646, type: 2}

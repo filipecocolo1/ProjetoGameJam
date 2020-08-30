@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D5_Fax_F2R1B
+  m_EditorClassIdentifier: 
+  fala: "Faxineiro - Tem certeza? \xC9 uma coisa muito arriscada, ainda mais com
+    o sumi\xE7o do carpinteiro. "
+  respostas:
+  - resposta: "Absoluta, marujo! Se n\xE3o corrermos riscos que gra\xE7a teria? Temos
+      que ser corajosos. "
+    proximafala: {fileID: 11400000, guid: 719ccef11ea5de147ad3f51ff2493276, type: 2}
+  - resposta: "Obviamente, que o Kraken venha para tentar bater de frente conosco.
+      Um a menos n\xE3o \xE9 nada contra a mim.  "
+    proximafala: {fileID: 11400000, guid: cc4a7fe8bc3b2674bb48fea41d2613b3, type: 2}

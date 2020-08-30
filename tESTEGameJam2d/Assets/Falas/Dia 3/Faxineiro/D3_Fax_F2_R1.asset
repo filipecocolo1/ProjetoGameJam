@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D3_Fax_F2_R1
+  m_EditorClassIdentifier: 
+  fala: "Faxineiro - N\xE3o sei, Capit\xE3o. Acha que devemos retomar? "
+  respostas:
+  - resposta: "Retornar? \xC9 uma op\xE7\xE3o vi\xE1vel mas acho que ainda devemos
+      continuar, sen\xE3o, nunca teremos uma chance. "
+    proximafala: {fileID: 11400000, guid: 75f370f7d996f2d49aa6c79e99f3afad, type: 2}
+  - resposta: "N\xE3o, n\xE3o podemos parar agora, estamos consideravelmente longe
+      de onde sa\xEDmos. "
+    proximafala: {fileID: 11400000, guid: e75bc61a804071540957881ab5dfae2f, type: 2}

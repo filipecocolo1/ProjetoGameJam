@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Im_F2_R1
+  m_EditorClassIdentifier: 
+  fala: "Imediato - Exato, capit\xE3o! Tenho certeza que procurei, o procurei por
+    toda parte, dentro de ba\xFAs, dentro dos quartos, debaixo da cama.  "
+  respostas:
+  - resposta: "Hm.. Isso \xE9 totalmente estranho. Muito curioso mesmo. Irei procurar
+      saber sobre isso, por hora, continue fazendo seu trabalho. Ajustar vela! "
+    proximafala: {fileID: 11400000, guid: 9c28213e7dad8304a8a7d553bdc6b5c5, type: 2}
+  - resposta: "Ele pode estar pregando uma pe\xE7a conosco, mesmo assim irei procurar
+      sobre isso, n\xE3o deixa de ser estranho. O vento est\xE1 mudando, marujo,
+      ajustar vela! "
+    proximafala: {fileID: 11400000, guid: 0f78b941d53a8d64ebc9eef789950ed1, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Coz_F2_R2_B
+  m_EditorClassIdentifier: 
+  fala: "Cozinheiro - Hahaha, posso at\xE9 pensar na ajuda, mas os ingredientes s\xE3o
+    um pouco \u201Cdif\xEDceis de lidar\u201D, se \xE9 que posso falar assim, n\xE3o
+    acho uma boa ideia envolver algu\xE9m que nunca fez algo para comer e n\xE3o
+    comest\xEDvel, "
+  respostas:
+  - resposta: "Eu j\xE1 lhe disse para cozinhar comidas normais como qualquer outro
+      cozinheiro, pare de tentar mexer com coisas que claramente s\xE3o venenosas
+      e tentar faze-las comest\xEDveis... "
+    proximafala: {fileID: 11400000, guid: 871477dddb72f1c46ba5c74383d5b2c6, type: 2}
+  - resposta: "N\xE3o quero problemas com comida novamente cozinheiro, isso \xE9
+      uma ordem! Se a comida estiver com problemas novamente voc\xEA j\xE1 sabe as
+      consequ\xEAncias... "
+    proximafala: {fileID: 11400000, guid: ed7f376fb66ada24c9ce4292fbf88c27, type: 2}

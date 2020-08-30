@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D3_Im_F2_R2_B
+  m_EditorClassIdentifier: 
+  fala: "Imediato - Ele n\xE3o bebia tanto a esse ponto, por que voc\xEA tem essa
+    id\xE9ia na cabe\xE7a? Mas a comida estava t\xE3o boa! N\xE3o acho que ele teria
+    nos envenenado, ele tamb\xE9m comeu. "
+  respostas:
+  - resposta: "Ele pode ter colocado s\xF3 nos nossos pratos, saberemos em breve,
+      se eu adoecer, j\xE1 sabemos o que foi. Continue seus afazeres. "
+    proximafala: {fileID: 11400000, guid: 04458be67c9fe6f4795ca4806b73b6dc, type: 2}
+  - resposta: "Comida boa n\xE3o significa que n\xE3o estava envenenada, mas fique
+      de olho, estou investigando o resto do pessoal, \xE9 ele estou ficando sem
+      paci\xEAncia para essas coisas. Al\xE9m de tudo, dormi mal. "
+    proximafala: {fileID: 11400000, guid: cc6b3e0297bcaa345848ea221bc41923, type: 2}

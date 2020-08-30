@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Recruta_F2_R2_B
+  m_EditorClassIdentifier: 
+  fala: "Recruta - Nenhum problema grande at\xE9 o momento senhor, o primeiro imediato
+    j\xE1 me repreendeu e ensinou novamente a ajustar as velas Capit\xE3o senhor! "
+  respostas:
+  - resposta: "Se alguma coisa se quebrar no navio n\xE3o serei s\xF3 eu que o repreenderei,
+      mas principalmente o Carpinteiro, cheque duas vezes o trabalho que fez antes
+      de ir para o pr\xF3ximo, n\xE3o podemos abalar a estrutura do barco por problemas
+      bobos. "
+    proximafala: {fileID: 11400000, guid: 5589ee9ef0c9ec24589c81076ba8991f, type: 2}
+  - resposta: "Espero que n\xE3o cometa este tipo de erro novamente, n\xE3o quero
+      me arrepender de deixa-lo a bordo, entendeu novato? "
+    proximafala: {fileID: 11400000, guid: 6aba0234fbe5c5a41bad9364e839b833, type: 2}
