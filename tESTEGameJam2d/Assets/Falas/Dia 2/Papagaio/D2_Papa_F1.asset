@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Papa_F1
+  m_EditorClassIdentifier: 
+  fala: "Cara do papagaio \u2013 Vejo que come\xE7amos a jornada com noticias ruins
+    irm\xE3o, voc\xEA precisa de ajuda com rela\xE7\xE3o a isso \u201CHoomem ao maaaaaaaaaaarrr\u201D~papagaio. "
+  respostas:
+  - resposta: "Sim, realmente ruins, perder algu\xE9m logo no primeiro dia n\xE3o
+      \xE9 algo f\xE1cil, espero que isto n\xE3o afete a tripula\xE7\xE3o"
+    proximafala: {fileID: 11400000, guid: 4fa05f92ab3352d4da1f35e6c2029b1a, type: 2}
+  - resposta: "Voc\xEA e seu papagaio viram ou ouviram algo? O coment\xE1rio do mesmo
+      foi um tanto estranho...  "
+    proximafala: {fileID: 11400000, guid: 4c9c4043de0f339479bf5fa2f88a7fa4, type: 2}
