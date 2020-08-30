@@ -19,7 +19,7 @@ MonoBehaviour:
   respostas:
   - resposta: "Vejo que est\xE1 fazendo sua estadia valer desta vez, n\xE3o quero
       velo fazendo corpo mole como o de costume marujo. "
-    proximafala: {fileID: 0}
+    proximafala: {fileID: 11400000, guid: 90d673ece79b93b45a0c2dabfe1aa5c8, type: 2}
   - resposta: "Ao menos n\xE3o come\xE7ou a viagem bebendo como o de costume, vejo
       que est\xE1 mudando para melhor desde a \xFAltima viagem. "
-    proximafala: {fileID: 0}
+    proximafala: {fileID: 11400000, guid: 61ad5fee85b3782479b349f6a55410c7, type: 2}

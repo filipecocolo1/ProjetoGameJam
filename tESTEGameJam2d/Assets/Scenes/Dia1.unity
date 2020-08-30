@@ -25891,7 +25891,7 @@ GameObject:
   - component: {fileID: 1569283214}
   m_Layer: 0
   m_Name: CaraPapagaio
-  m_TagString: Untagged
+  m_TagString: Npc
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36766,8 +36766,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   falas:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: b73fe27a8c2054642ba1d1cf9902e5ed, type: 2}
+  - {fileID: 11400000, guid: 8efac3c828c70d544a8bdb2d7b1d97fc, type: 2}
+  - {fileID: 11400000, guid: 954ca74f554fec0429b964fab7a5b073, type: 2}
   dialogoConcluido: 0
   ObJETOcOLL: 
 --- !u!95 &2099691717

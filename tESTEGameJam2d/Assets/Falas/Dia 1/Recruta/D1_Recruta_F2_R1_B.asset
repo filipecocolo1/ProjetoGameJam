@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Recruta_F2_R1_B
+  m_EditorClassIdentifier: 
+  fala: "Recruta - Tudo sem problemas at\xE9 o momento senhor! Terminei o servi\xE7o
+    com o primeiro Imediato agora e estava indo ajudar o pescador agora mesmo senhor! "
+  respostas:
+  - resposta: "N\xE3o quero velo vagabundeando no barco recruta, continue ocupado
+      em seu hor\xE1rio de servi\xE7o, se estiver livre v\xE1 ajudar algu\xE9m que
+      precise, sempre existe algo a se fazer neste barco Haha. "
+    proximafala: {fileID: 11400000, guid: 426363f12519f394585800055a4a451b, type: 2}
+  - resposta: "Depois que terminar de ajudar o pescador veja se o faxineiro precisa
+      de ajuda com algo, voc\xEA precisa entender as fun\xE7\xF5es no barco logo
+      antes de escolher a que ir\xE1 se aprofundar. "
+    proximafala: {fileID: 11400000, guid: 74dc45071a8ef4b42869570588eb5dd4, type: 2}

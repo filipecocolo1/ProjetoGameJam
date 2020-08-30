@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Recruta_F1
+  m_EditorClassIdentifier: 
+  fala: "Recruta \u2013 Bom dia capit\xE3o, \xE0s suas ordens! "
+  respostas:
+  - resposta: "Relaxe marujo, como tem ido seu primeiro dia de viagem, ainda possui
+      alguma d\xFAvida sobre o seu posto? "
+    proximafala: {fileID: 11400000, guid: 0a041bc805fe32949beb166672d31c66, type: 2}
+  - resposta: "Descansar recruta, voc\xEA est\xE1 fazendo algum servi\xE7o ou est\xE1
+      livre no momento? "
+    proximafala: {fileID: 11400000, guid: ea6a1bef58f377f448d1f3f34ba737f5, type: 2}
