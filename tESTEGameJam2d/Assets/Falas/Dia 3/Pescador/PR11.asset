@@ -10,7 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D5_Fax_F3R2.1B
+  m_Name: PR11
   m_EditorClassIdentifier: 
-  fala: "Faxineiro  - Sim, senhor Capit\xE3o! "
+  fala: "Pescador  \u2013 Pela culin\xE1ria normal daquele homem eu tenho at\xE9
+    medo de tocar em seus ingredientes sem cuidado haha, mas tentarei ao m\xE1ximo
+    aqui capit\xE3o, fique tranquilo. "
   respostas: []

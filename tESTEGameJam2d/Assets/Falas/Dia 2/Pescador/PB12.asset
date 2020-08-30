@@ -10,7 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D5_Fax_F3R2.1B
+  m_Name: PB12
   m_EditorClassIdentifier: 
-  fala: "Faxineiro  - Sim, senhor Capit\xE3o! "
+  fala: "Pescador \u2013 Nem me fale isso capit\xE3o, o garoto era ing\xEAnuo mas
+    nem tanto, n\xE3o \xE9 uma historia de pescador que faria o garoto repensar sua
+    vida... "
   respostas: []

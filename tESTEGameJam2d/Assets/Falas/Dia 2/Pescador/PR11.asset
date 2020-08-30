@@ -10,7 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D5_Fax_F3R2.1B
+  m_Name: PR11
   m_EditorClassIdentifier: 
-  fala: "Faxineiro  - Sim, senhor Capit\xE3o! "
+  fala: "Pescador \u2013 N\xE3o era t\xE3\xE3o ruim assim capit\xE3o, eu acabava
+    pescando uma coisa ou outra nas viagens Hahaha, mas se b\xEAbado elas eram agrad\xE1veis
+    elas j\xE1 cumpriam sua fun\xE7\xE3o hahaha... "
   respostas: []

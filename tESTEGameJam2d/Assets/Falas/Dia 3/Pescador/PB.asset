@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: PB
+  m_EditorClassIdentifier: 
+  fala: "Pescador \u2013 Primeiro o Recruta e agora o Cozinheiro, at\xE9 no mar esse
+    tipo de acontecimento \xE9 estranho capit\xE3o, espero que com isso acabe a parte
+    ruim da viagem, n\xE3o quero mais ningu\xE9m desaparecendo... "
+  respostas:
+  - resposta: 'Nem eu amigo, mas mudando e a assunto e a pescaria e o clima, algo
+      a reportar? '
+    proximafala: {fileID: 11400000, guid: f2b3db4766d56ad4bb30f3eaacd7c89a, type: 2}
+  - resposta: "Nem me fale disso amigo, s\xF3 quero pegar esse tesouro e voltar para
+      casa, n\xE3o quero me arrepender ainda mais de ter iniciado esta jornada. "
+    proximafala: {fileID: 11400000, guid: 535c93e4c99b548419f5d3bec33b8228, type: 2}

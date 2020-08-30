@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: PR1
+  m_EditorClassIdentifier: 
+  fala: "Pescador \u2013 Para reportar sobe o clima n\xE3o h\xE1 nada de mais capit\xE3o,
+    mas sobre a pescaria acabo de trazer uma tartaruga marinha a bordo, deve fazer
+    um ensopado excelente. "
+  respostas:
+  - resposta: "Uma boa not\xEDcia ao menos, sem o cozinheiro n\xE3o acho que conseguir\xEDamos
+      preparar algo descente com os ingredientes que ele trouxe, voc\xEA ir\xE1 ser
+      indispens\xE1vel agora, n\xE3o diminua o ritmo.  "
+    proximafala: {fileID: 11400000, guid: 3b1fb188c1e57de4a93d4700f13dcaf9, type: 2}
+  - resposta: "Isso \xE9 algo que gostei de ouvir, n\xE3o \xE9 mais o pescador sem
+      talento com o qual eu estava acostumado, e se o clima n\xE3o vai mudar \xE9
+      uma boa not\xEDcia tamb\xE9m. "
+    proximafala: {fileID: 11400000, guid: 5ebba139d432c4d42ab5878fd4255c28, type: 2}

@@ -10,7 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D5_Fax_F3R2.1B
+  m_Name: PR22
   m_EditorClassIdentifier: 
-  fala: "Faxineiro  - Sim, senhor Capit\xE3o! "
+  fala: "Pescador \u2013 Ok Capit\xE3o. Ah, eu estava vendo as nuvens e \xE9 melhor
+    darmos a volta, se continuarmos nessa rota entraremos em uma tempestade em 40
+    minutos... "
   respostas: []

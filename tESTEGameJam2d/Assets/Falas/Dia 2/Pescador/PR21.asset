@@ -10,7 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D5_Fax_F3R2.1B
+  m_Name: PR21
   m_EditorClassIdentifier: 
-  fala: "Faxineiro  - Sim, senhor Capit\xE3o! "
+  fala: "Pescador  \u2013 Pode deixar capit\xE3o, estou terminando de me recuperar
+    da ressaca que j\xE1 voltarei ao meu posto, ah e \xE9 melhor fazermos a volta
+    nessas \xE1guas, perderemos algumas horas mas te uma tempestade se formando a
+    uns 40 minutos de distancia \xE9 melhor dar a volta. "
   respostas: []

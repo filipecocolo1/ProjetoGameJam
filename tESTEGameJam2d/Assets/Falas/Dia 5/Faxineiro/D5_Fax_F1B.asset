@@ -17,7 +17,7 @@ MonoBehaviour:
   respostas:
   - resposta: "\xC9 claro que podemos, j\xE1 estamos em mais da metade, ou quase
       isso.  "
-    proximafala: {fileID: 0}
+    proximafala: {fileID: 11400000, guid: 3db61fe876bae844a9d87342df3de6bf, type: 2}
   - resposta: "A expedi\xE7\xE3o j\xE1 est\xE1 acontecendo, n\xE3o podemos parar
       o mar, marujo! "
-    proximafala: {fileID: 0}
+    proximafala: {fileID: 11400000, guid: 2d015e2c6bb21b74298928a4be5a81da, type: 2}

@@ -16,6 +16,6 @@ MonoBehaviour:
   respostas:
   - resposta: "\xC9 claro que tenho raz\xE3o, eu sou seu capit\xE3o. Se n\xE3o confiar
       em mim n\xE3o poderemos trabalhar juntos. "
-    proximafala: {fileID: 0}
+    proximafala: {fileID: 11400000, guid: 2c3ac0a9632a1bd4ab08ec923bc04c73, type: 2}
   - resposta: "N\xE3o afundaremos por nada, com um a mais ou um a menos.  "
-    proximafala: {fileID: 0}
+    proximafala: {fileID: 11400000, guid: 33fe67dc0954ace4999ec4228725eb5b, type: 2}
