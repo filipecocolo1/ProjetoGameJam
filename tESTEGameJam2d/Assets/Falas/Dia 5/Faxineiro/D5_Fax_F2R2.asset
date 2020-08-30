@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D5_Fax_F2R2
+  m_EditorClassIdentifier: 
+  fala: "Faxineiro - O carpinteiro sumiu, quem ir\xE1 consertar caso tenhamos algum
+    problema? "
+  respostas:
+  - resposta: "Mais algu\xE9m deve saber fazer isso, isso est\xE1 al\xE9m do que
+      eu posso controlar. "
+    proximafala: {fileID: 11400000, guid: 08d0932eaecf21d47bf0392e63117035, type: 2}
+  - resposta: "Imagino que a maioria saiba fazer o b\xE1sico sobre isso, o barco
+      est\xE1 em boas condi\xE7\xF5es apesar de tudo. "
+    proximafala: {fileID: 11400000, guid: 6f9b30f62167e3b4d8de57e4e8c80aad, type: 2}

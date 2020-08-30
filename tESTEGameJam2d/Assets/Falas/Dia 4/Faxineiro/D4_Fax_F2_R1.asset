@@ -14,4 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fala: "Faxineiro - Aparentemente s\xF3 um dia capit\xE3o, foi o que ouvi, posso
     estar errado.  "
-  respostas: []
+  respostas:
+  - resposta: 'De onde ouviu isso? Quem foi que viu que a vela estava mal ajustada?  '
+    proximafala: {fileID: 11400000, guid: 87472a1a1354d494c9940fab1e9448b0, type: 2}
+  - resposta: 'Perceberam isso a quanto tempo? Dormi muito mal, acabei acordando
+      mais tarde do que deveria. '
+    proximafala: {fileID: 11400000, guid: a9b8644367102a843b921252a7fb8ca9, type: 2}

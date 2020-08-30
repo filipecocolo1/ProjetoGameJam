@@ -12,5 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
   m_Name: D4_Car_F1_B
   m_EditorClassIdentifier: 
-  fala: 
-  respostas: []
+  fala: "Carpinteiro \u2013 Acho que agora terei que parar ainda mais meus servi\xE7os
+    originais no barco para ocupar as fun\xE7\xF5es do imediato tamb\xE9m, n\xE3o
+    \xE9 mesmo?"
+  respostas:
+  - resposta: "Ainda bem que entendeu minhas inten\xE7\xF5es de in\xEDcio, gosto
+      da ideia de deixa-lo longe da cozinha, sua tentativa de ontem n\xE3o foi nada
+      gentil com nossos est\xF4magos... "
+    proximafala: {fileID: 11400000, guid: 40952eebd6a16ef4e8c175327a23d0ad, type: 2}
+  - resposta: "Era exatamente essa minha ideia, que bom que n\xE3o \xE9 t\xE3o burro
+      como sua cara aparenta hahaha. "
+    proximafala: {fileID: 11400000, guid: 73e8d4129b08d3e419f944b7866f132b, type: 2}

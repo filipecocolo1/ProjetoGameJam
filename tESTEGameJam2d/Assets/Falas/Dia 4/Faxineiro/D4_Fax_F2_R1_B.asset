@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
   m_Name: D4_Fax_F2_R1_B
   m_EditorClassIdentifier: 
-  fala: 
-  respostas: []
+  fala: 'Faxineiro - Heh.. Esse era o trabalho do primeiro imediato..  '
+  respostas:
+  - resposta: "E nem isso ele conseguiu fazer direito, veja s\xF3! "
+    proximafala: {fileID: 11400000, guid: 34ea9cb10058967448017c80920b2358, type: 2}
+  - resposta: "E ningu\xE9m mais sabe ajustar a vela? "
+    proximafala: {fileID: 11400000, guid: 12b7d573c37bd6942b71645fa430cc5e, type: 2}

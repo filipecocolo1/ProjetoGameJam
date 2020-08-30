@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
   m_Name: D4_Fax_F1_B
   m_EditorClassIdentifier: 
-  fala: 
-  respostas: []
+  fala: "Faxineiro - Senhor capit\xE3o! Est\xE1 um caos, agora o primeiro imediato
+    sumiu, o navio acabou pegando outra rota mas j\xE1 tentamos ajustar. "
+  respostas:
+  - resposta: "O que?! Como conseguem n\xE3o prestar aten\xE7\xE3o na vela? "
+    proximafala: {fileID: 11400000, guid: 875f60322fed1054b9da449fb5d2d850, type: 2}
+  - resposta: "Mais um imprest\xE1vel sumiu? Sinceramente\u2026 S\xF3 pode haver
+      uma op\xE7\xE3o extremamente p\xE9ssima.  "
+    proximafala: {fileID: 11400000, guid: 264622e8ac0207c4bbc245c43fc777dc, type: 2}

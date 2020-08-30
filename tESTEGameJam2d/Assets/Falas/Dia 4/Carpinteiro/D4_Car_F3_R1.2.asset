@@ -10,7 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D4_Car_F3_R1.1 1
+  m_Name: D4_Car_F3_R1.2
   m_EditorClassIdentifier: 
-  fala: 
+  fala: "Carpinteiro  \u2013 Ainda tenho muita for\xE7a comigo apit\xE3o, n\xE3o
+    \xE9 um servi\xE7o de manuten\xE7\xE3o e manuseio de barco que vai me cansar
+    f\xE1cil hahaha.  "
   respostas: []

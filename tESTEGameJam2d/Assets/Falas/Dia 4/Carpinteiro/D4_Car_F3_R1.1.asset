@@ -12,5 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
   m_Name: D4_Car_F3_R1.1
   m_EditorClassIdentifier: 
-  fala: 
+  fala: "Carpinteiro  \u2013 Essa foi uma forma indireta de dizer que n\xE3o gostou
+    de minha cozinha ontem? Hahaha. Eu tamb\xE9m n\xE3o gostei muito ent\xE3o n\xE3o
+    levarei para o pessoal hahahhaha..."
   respostas: []

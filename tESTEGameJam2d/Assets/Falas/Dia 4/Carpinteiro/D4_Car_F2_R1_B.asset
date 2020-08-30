@@ -12,5 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
   m_Name: D4_Car_F2_R1_B
   m_EditorClassIdentifier: 
-  fala: 
-  respostas: []
+  fala: "Carpinteiro  \u2013 \xC9 por isso que sou um carpinteiro e n\xE3o um cozinheiro
+    hahaha. Mas os servi\xE7os do imediato conhe\xE7o de vento em poupa, n\xE3o terei
+    problemas em completar nenhuma das tarefas. "
+  respostas:
+  - resposta: "Realmente como cozinheiro voc\xEA \xE9 um \xF3timo carpinteiro hahaha.
+      Tente manter a efici\xEAncia do imediato... "
+    proximafala: {fileID: 11400000, guid: 8003cc39a3039214c89cb6ca15f65f65, type: 2}
+  - resposta: "Comece seus servi\xE7os agora mesmo, temos prioridades maiores que
+      seu artesanato e alquimia na cozinha. "
+    proximafala: {fileID: 11400000, guid: a69775896f65df1429b40820fa287986, type: 2}

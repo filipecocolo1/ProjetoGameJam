@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
   m_Name: D4_Fax_F3_R2.1
   m_EditorClassIdentifier: 
-  fala: 
+  fala: 'Faxineiro - Nunca! Acredito em todos aqui nesse navio.  '
   respostas: []

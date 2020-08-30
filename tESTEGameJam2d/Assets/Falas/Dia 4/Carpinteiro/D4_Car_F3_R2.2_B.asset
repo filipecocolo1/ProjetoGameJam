@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
   m_Name: D4_Car_F3_R2.2_B
   m_EditorClassIdentifier: 
-  fala: 
+  fala: "Carpinteiro  \u2013 S\xF3 irei terminar de arrumar a mesa da cozinha que
+    quebrou na noite passada e seguirei com o servi\xE7o do imediato senhor."
   respostas: []

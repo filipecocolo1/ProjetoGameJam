@@ -16,7 +16,7 @@ MonoBehaviour:
     sumiu, o navio acabou pegando outra rota mas j\xE1 tentamos ajustar. "
   respostas:
   - resposta: 'O que!? Por Kraken! Sabe quanto tempo perdemos nisso? '
-    proximafala: {fileID: 0}
+    proximafala: {fileID: 11400000, guid: cc1c27ba5f2b52c4098851c43be8d5ea, type: 2}
   - resposta: "Isso n\xE3o \xE9 problema, nosso problema maior \xE9 quem est\xE1
       fazendo essas atrocidades. "
-    proximafala: {fileID: 0}
+    proximafala: {fileID: 11400000, guid: fe6f00556d90a8d4ab1c0d0c8d3185c1, type: 2}
