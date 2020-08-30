@@ -8,30 +8,16 @@ public class GameController : MonoBehaviour
     public int seg;
     public int min;
     public int dia;
-    public Animation A;
+    public string cena;
     // Start is called before the first frame update
     void Start()
     {
-        
+
+        PlayerPrefs.SetInt("Dia", dia);
     }
 
     // Update is called once per frame
     void Update()
-    {
-        Relogio();
-        if (dia >= 1)
-        {
-
-            SceneManager.LoadScene("fase1");
-
-        }
-
-
-    }
-
-
-
-    public void Relogio()
     {
         cronometro += Time.deltaTime;
 
@@ -52,16 +38,25 @@ public class GameController : MonoBehaviour
 
         if (min == 60)
         {
-
+            
             dia++;
 
             min = 0;
+
+
+            PlayerPrefs.SetInt("Dia", PlayerPrefs.GetInt("Dia") + 1); 
+            SceneManager.LoadScene(cena);
+            Debug.LogError("Não Esta Salvando");
+          
+
+        
+        
         }
 
     }
 
-
 }
+
 
 
 
