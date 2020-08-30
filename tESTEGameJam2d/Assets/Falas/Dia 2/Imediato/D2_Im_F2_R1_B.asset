@@ -12,5 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
   m_Name: D2_Im_F2_R1_B
   m_EditorClassIdentifier: 
-  fala: 
-  respostas: []
+  fala: "Imediato - Tenho, j\xE1 te disse, procurei em todos os lugares poss\xEDveis.
+    N\xE3o sei mais o que fazer. "
+  respostas:
+  - resposta: "N\xE3o tem mais o que fazer, oras, sumiu. Deve ter desistido, n\xE3o
+      acha? Quase certeza. Os botes est\xE3o todos em ordem? \xC9 bom que verifique
+      isso. "
+    proximafala: {fileID: 11400000, guid: e859775f087195646ba2f7181dcb31b0, type: 2}
+  - resposta: "\xD3bvio que n\xE3o procurou em todos, n\xE3o h\xE1 como ele ter sumido.  "
+    proximafala: {fileID: 11400000, guid: 383759335077f5d418d80dc471c54d25, type: 2}

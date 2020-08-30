@@ -12,5 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
   m_Name: D2_Im_F2_R2_B
   m_EditorClassIdentifier: 
-  fala: 
-  respostas: []
+  fala: "Imediato - Esperava?.. Ele n\xE3o deve ter feito de prop\xF3sito, e se algu\xE9m
+    o empurrou do barco? E se monstros marinho..? "
+  respostas:
+  - resposta: "N\xE3o venha me falar de monstros marinhos no momento, n\xE3o tenho
+      cabe\xE7a para isso. Veja, o vento est\xE1 mudando, ajuste as velas. "
+    proximafala: {fileID: 11400000, guid: 296c7208450e83d4ebd3d7475b304aa5, type: 2}
+  - resposta: "Ningu\xE9m iria empurrar ele do barco, muito menos monstros marinhos.
+      Trate de ajustar as velas enquanto vejo o que pode ter acontecido. "
+    proximafala: {fileID: 11400000, guid: cc6e5cc9bb424e741b5f8455973ccb5e, type: 2}

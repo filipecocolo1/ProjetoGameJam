@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D2_Coz_F3_R1.2_B
+  m_Name: D3_Im_F3_R1
   m_EditorClassIdentifier: 
-  fala: "Cozinheiro \u2013 Sim Capit\xE3o, pode deixar que a comida de hoje ser\xE1
-    ainda melhor que a servida ontem hehe. "
+  fala: "Imediato - Pode deixar, Capit\xE3o, tome cuidado o senhor tamb\xE9m, nunca
+    se sabe o que pode acontecer. "
   respostas: []

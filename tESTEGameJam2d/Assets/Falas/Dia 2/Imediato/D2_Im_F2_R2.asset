@@ -12,5 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
   m_Name: D2_Im_F2_R2
   m_EditorClassIdentifier: 
-  fala: 
-  respostas: []
+  fala: "Imediato - Empurrado por algu\xE9m?.. Voc\xEA acha que algu\xE9m aqui dentro
+    n\xE3o gostava dele? Por Kraken!  "
+  respostas:
+  - resposta: "Estamos todos aqui por um objetivo, n\xE3o sei se ele tinha problemas
+      grandes com algu\xE9m. Continue o que estava fazendo, tome cuidado. "
+    proximafala: {fileID: 11400000, guid: 82a3df2cf1c9f8c41ad7866aad36973a, type: 2}
+  - resposta: "Ele podia ter algum problema com algum dos tripulantes, qualquer um
+      \xE9 suspeito.. Tome cuidado e fique atento, marujo. "
+    proximafala: {fileID: 11400000, guid: bdad6a14a63edbe46ad61783c945d228, type: 2}

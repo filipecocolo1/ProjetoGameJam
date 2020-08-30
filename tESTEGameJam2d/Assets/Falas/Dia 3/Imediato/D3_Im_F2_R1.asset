@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D3_Im_F2_R1
+  m_EditorClassIdentifier: 
+  fala: "Imediato - Ele evaporou, deixou apenas a esp\xE1tula que usava. Ele n\xE3o
+    deixaria ele a toa, algo o fez sumir. "
+  respostas:
+  - resposta: " A esp\xE1tula? Oras, ent\xE3o realmente algo o pegou. Agora o que..
+      Ele costumava beber muito? N\xE3o. Irei investigar, olhe por onde anda."
+    proximafala: {fileID: 11400000, guid: 78b645e4d7a866340814668d7641d34a, type: 2}
+  - resposta: "Evaporar \xE9 um pouco demais, n\xE9? Mas algo aconteceu, voc\xEA
+      ficou sabendo de mais alguma coisa? "
+    proximafala: {fileID: 11400000, guid: 84d4265f6eaef2c47ac6eefbc603963a, type: 2}

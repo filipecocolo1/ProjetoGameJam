@@ -12,5 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
   m_Name: D2_Im_F1
   m_EditorClassIdentifier: 
-  fala: 
-  respostas: []
+  fala: "Imediato - Bom dia, senhor Capit\xE3o. Meu parceiro.. Meu parceiro sumiu..
+    O que faremos? J\xE1 o procurei at\xE9 dentro dos canh\xF5es. "
+  respostas:
+  - resposta: "Bom dia. O recruta sumiu? Tem certeza que procurou direito? At\xE9
+      l\xE1 em cima?  "
+    proximafala: {fileID: 11400000, guid: 4bc05e41380247343b571f1bce3459be, type: 2}
+  - resposta: "Como diabos isso pode ter acontecido? Caiu para fora do navio? Foi
+      empurrado por algu\xE9m? "
+    proximafala: {fileID: 11400000, guid: 0ad2868c207267848906e11fe1bb7960, type: 2}

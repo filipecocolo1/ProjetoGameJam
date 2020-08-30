@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
   m_Name: D2_Im_EndLoop
   m_EditorClassIdentifier: 
-  fala: 
+  fala: "[Ele parece abalado com o sumi\xE7o do Recruta... Vou deixa-lo trabalar
+    em paz para se distrair ]"
   respostas: []
