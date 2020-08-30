@@ -46,7 +46,7 @@ public class GameController : MonoBehaviour
 
             PlayerPrefs.SetInt("Dia", PlayerPrefs.GetInt("Dia") + 1); 
             SceneManager.LoadScene(cena);
-            Debug.LogError("Não Esta Salvando");
+           
           
 
         
