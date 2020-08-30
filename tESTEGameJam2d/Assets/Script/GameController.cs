@@ -55,6 +55,14 @@ public class GameController : MonoBehaviour
 
     }
 
+    public void Play() {
+        SceneManager.LoadScene("Dia1");
+
+
+
+    }
+
+
 }
 
 
