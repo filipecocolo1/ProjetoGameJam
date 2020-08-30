@@ -29,7 +29,7 @@ public class DialogoController : MonoBehaviour
                 paineldEDialogo.SetActive(false);
                 CaixaDeTexto.SetActive(false);
                 FalaNpc.gameObject.SetActive(false);
-                FindObjectOfType<MovimentPersonAndJump>().moveSpeed = 5;
+                FindObjectOfType<MovimentPersonAndJump>().moveSpeed = 3f;
 
             }
         

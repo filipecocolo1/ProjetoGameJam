@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Carpinteiro_F3_R1.2_B
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro - Nunca perco a aten\xE7\xE3o no mar capit\xE3o, a qualquer
+    imprevisto com o barco eu provavelmente serei o primeiro a chegar e resolve-lo. "
+  respostas: []

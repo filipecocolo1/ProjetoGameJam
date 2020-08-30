@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: Pescador_Introducao
+  m_Name: Pescador_F1_Good
   m_EditorClassIdentifier: 
   fala: "Pescador \u2013 Bom dia capit\xE3o, este come\xE7o de jornada j\xE1 est\xE1
     \xF3timo!! Acabamos passando por um cardume de salm\xF5es logo na sa\xEDda do

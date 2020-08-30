@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Carpinteiro_F2_R1_B
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro - Mesmo que o tempo vire eu sei como e com o qual material cada
+    canto deste barco foi constru\xEDdo, nenhuma tempestade neste mar deve apresentar
+    desafios. "
+  respostas:
+  - resposta: "Espero que voc\xEA esteja certo, n\xE3o quero que este barco tenha
+      o mesmo destino que o de meu irm\xE3o. "
+    proximafala: {fileID: 11400000, guid: 73eb645333cd74f40a733e7bbed0bd3d, type: 2}
+  - resposta: "Confio em sua palavra, s\xF3 fique atento para poss\xEDveis imprevistos
+      no caminho. "
+    proximafala: {fileID: 11400000, guid: 5a953929caae3f84fb6b711cf9e228f4, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Carpinteiro_F2_R2_B
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro - N\xE3o inicie a viagem com um mal press\xE1gio como este capit\xE3o,
+    devemos ser positivos, ainda mais com a possibilidade de grande fortuna ao final
+    da jornada, n\xE3o? "
+  respostas:
+  - resposta: "N\xE3o \xE9 um mal press\xE1gio, \xE9 s\xF3 uma frase que ajuda a
+      manter o foco em nosso objetivo, estamos indo atr\xE1s de um tesouro e n\xE3o
+      em uma viagem de f\xE9rias. "
+    proximafala: {fileID: 11400000, guid: 96ca237327e000346a90a5a120697f8a, type: 2}
+  - resposta: "S\xF3 estou te lembrando de nosso objetivo, e sim, se tudo der certo
+      \xE9 prov\xE1vel que nossa vida mude depois desta jornada. "
+    proximafala: {fileID: 11400000, guid: 0023ec0a119130d4bb509c1a3b7bf401, type: 2}
