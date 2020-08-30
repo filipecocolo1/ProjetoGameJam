@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D3_Fax_F2_R1_B
+  m_EditorClassIdentifier: 
+  fala: "Faxineiro - Estamos desesperados pois mais algu\xE9m desapareceu! Isso \xE9
+    preocupante, o que pode ter acontecido? N\xE3o acha que monstros marinhos podem
+    ser cogitados agora?"
+  respostas:
+  - resposta: "N\xE3o, monstros marinhos n\xE3o existem, j\xE1 lhe disse que essa
+      conversa de pescador \xE9 furada, pare de insistir. N\xE3o tem ch\xE3o para
+      limpar? "
+    proximafala: {fileID: 11400000, guid: 2c7d4dd66279b3c46864271175a09656, type: 2}
+  - resposta: "Sim, sim, eu sei que mais de uma pessoa desapareceu, mas o que eu
+      posso fazer al\xE9m de comandar voc\xEAs? Estou t\xE3o cansado, voc\xEAs me
+      d\xE3o nos nervos. "
+    proximafala: {fileID: 11400000, guid: 4e15d95160d20b64ea76c74971d92340, type: 2}

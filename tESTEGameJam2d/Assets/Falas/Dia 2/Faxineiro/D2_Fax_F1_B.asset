@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Fax_F1_B
+  m_EditorClassIdentifier: 
+  fala: "Faxineiro - Bom dia, senhor Capit\xE3o. Voc\xEA ficou sabendo do que aconteceu?
+    \xC9 claro que ficou sabendo, voc\xEA \xE9 o Capit\xE3o. HAHA. Mas\u2026 Sabe
+    o que pode ter acontecido com o Recruta?  "
+  respostas:
+  - resposta: "P\xE9ssimo dia, Marujo. Fui o segundo a saber, me notificaram assim
+      que eu acordei, estou abismado com tamanha irresponsabilidade. "
+    proximafala: {fileID: 11400000, guid: 198d8d535462ed5439b1d9772d2842c8, type: 2}
+  - resposta: "Claro que fiquei sabendo, que p\xE9ssimo para nossos objetivos. \xC9
+      bom que isso n\xE3o aconte\xE7a novamente, o barco \xE9 bonito demais para
+      ser afundado. "
+    proximafala: {fileID: 11400000, guid: 5c67ba0ac8d29494cbaf53e856395b27, type: 2}

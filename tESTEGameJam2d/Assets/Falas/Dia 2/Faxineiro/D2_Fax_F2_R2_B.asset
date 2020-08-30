@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Fax_F2_R2_B
+  m_EditorClassIdentifier: 
+  fala: "Faxinerio - Realmente.. O barco \xE9 bonit\xE3o, mas chegaremos ao nossos
+    objetivos desse jeito? Com um a menos? E se continuar? "
+  respostas:
+  - resposta: "O barco \xE9 o melhor, meu caro. Claro que chegaremos, por algum acaso
+      est\xE1 duvidando do seu capit\xE3o? N\xE3o vai continuar, ningu\xE9m mais
+      vai sumir.. Eu espero.. "
+    proximafala: {fileID: 11400000, guid: 6f3c1135d64ef4d4e88df88a2ff82f1f, type: 2}
+  - resposta: "N\xE3o sei.. \xC9 uma perda e tanto, nossos objetivos ainda est\xE3o
+      l\xE1, n\xE3o vir\xE3o at\xE9 n\xF3s por conta pr\xF3pria, n\xE3o vou desistir
+      s\xF3 por causa disso. "
+    proximafala: {fileID: 11400000, guid: 31c99d11aa1141a4ea34904d3861bb60, type: 2}

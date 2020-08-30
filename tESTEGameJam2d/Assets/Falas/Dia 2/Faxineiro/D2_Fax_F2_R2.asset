@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Fax_F2_R2
+  m_EditorClassIdentifier: 
+  fala: "Faxineiro - Ele fazia muitas coisas erradas, \xE9, mas \xE9 preocupante
+    que isso aconteceu. Espero que tenha dormindo em algum lugar que n\xE3o conseguimos
+    achar. "
+  respostas:
+  - resposta: "Novatos s\xE3o assim mesmo, \xE9 uma dor de cabe\xE7a mas depois se
+      tornam bons marinheiros. Ca\xE7amos ele em todos os lugares, s\xF3 se dormiu
+      debaixo do navio. "
+    proximafala: {fileID: 11400000, guid: 56df1404ff453c34b8bc5e41e629807c, type: 2}
+  - resposta: "S\xF3 se ele tivesse sido encantado por uma sereia, tinha mais medo
+      do mar do que gato. HAHA. Se for uma sereia ele est\xE1 bem. "
+    proximafala: {fileID: 11400000, guid: 5edafdb0f4d759c40b6f92b8559762ee, type: 2}

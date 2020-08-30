@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D3_Fax_F1
+  m_EditorClassIdentifier: 
+  fala: "Faxineiro - P\xE9ssimo dia, nosso melhor cozinheiro sumiu. Opa, nosso \xDANICO
+    cozinheiro sumiu, o que faremos?! Adorava a sopinha que ele fazia.. "
+  respostas:
+  - resposta: "Fiquei sabendo, \xE9 realmente algo p\xE9ssimo. Primeiro o recruta
+      e depois o cozinheiro. C\xE9us, essa viagem foi realmente um erro?   "
+    proximafala: {fileID: 11400000, guid: b72a1750aa721df4d94d4ea91b102574, type: 2}
+  - resposta: "Ele n\xE3o se perdeu buscando os alimentos l\xE1 embaixo? J\xE1 procurou
+      totalmente pelo navio?  "
+    proximafala: {fileID: 11400000, guid: ced608aa165b533449565786de0147d4, type: 2}
