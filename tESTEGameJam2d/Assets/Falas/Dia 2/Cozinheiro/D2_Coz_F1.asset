@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Coz_F1
+  m_EditorClassIdentifier: 
+  fala: "Cozinheiro - Cozinheiro - Ainda nenhum sinal do recruta capit\xE3o? Eu s\xF3
+    lembro de velo na hora da janta antes da divis\xE3o de turnos. "
+  respostas:
+  - resposta: "O garoto realmente desapareceu, at\xE9 agora ningu\xE9m achou nenhum
+      sinal dele, mas infelizmente n\xE3o podemos parar a expedi\xE7\xE3o agora. "
+    proximafala: {fileID: 0}
+  - resposta: "At\xE9 agora nenhuma not\xEDcia, ele era algu\xE9m sozinho no mundo,
+      mas n\xE3o sei o que ou porque algo aconteceria que traria em seu sumi\xE7o
+      logo no segundo dia. "
+    proximafala: {fileID: 0}

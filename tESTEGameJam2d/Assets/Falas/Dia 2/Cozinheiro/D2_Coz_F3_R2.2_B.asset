@@ -10,9 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D1_Coz_F3_R1.2_B
+  m_Name: D2_Coz_F3_R2
   m_EditorClassIdentifier: 
-  fala: "Cozinheiro - Eu j\xE1 disse que aquilo foi culpa daquele Carpinteiro apressado,
-    acabaram comendo da panela errada e colocaram a culpa em mim. N\xE3o tirarei
-    o olho da cozinha dessa vez... "
+  fala: "Cozinheiro - Ainda sinto pena por uma alma t\xE3o jovem, mas isto n\xE3o
+    me abala mais Capit\xE3o, meu servi\xE7o ir\xE1 continuar de primeira linha Capit\xE3o. "
   respostas: []

@@ -10,9 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D1_Coz_F3_R1.2_B
+  m_Name: D2_Coz_F3_R1.2
   m_EditorClassIdentifier: 
-  fala: "Cozinheiro - Eu j\xE1 disse que aquilo foi culpa daquele Carpinteiro apressado,
-    acabaram comendo da panela errada e colocaram a culpa em mim. N\xE3o tirarei
-    o olho da cozinha dessa vez... "
+  fala: "Cozinheiro - Pode deixar que as refei\xE7\xF5es ser\xE3o as melhores nessa
+    viagem, e com os peixes conseguidos ontem o card\xE1pio aumentou e muito. "
   respostas: []

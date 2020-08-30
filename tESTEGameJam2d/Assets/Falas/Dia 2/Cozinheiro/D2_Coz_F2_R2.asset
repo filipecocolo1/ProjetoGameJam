@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Coz_F2_R2
+  m_EditorClassIdentifier: 
+  fala: "Cozinheiro - Uma pena mesmo, ele realmente gostou da minha comida ontem
+    haha, inclusive o capit\xE3o e ou outros, eu lhe disse que valeria a pena depois
+    de pronto HAHA. "
+  respostas:
+  - resposta: "Realmente estava uma comida de outro mundo, nunca havia provado algo
+      t\xE3o delicioso em minha vida, s\xF3 podemos agradeces e nos desculpar pelas
+      d\xFAvidas, mesmo elas tendo uma boa base com os acontecimentos passados haha. "
+    proximafala: {fileID: 11400000, guid: b5447e12e771a994fa2eefde80aba443, type: 2}
+  - resposta: "Uma \xF3tima comida realmente Haha, s\xF3 n\xE3o quero saber o que
+      voc\xEA utilizou para faze-la, acabei dando uma olhada nos suprimentos e poucos
+      deles parecem comida haha. "
+    proximafala: {fileID: 11400000, guid: b7079241bdbd910469d15d8d4d490e76, type: 2}

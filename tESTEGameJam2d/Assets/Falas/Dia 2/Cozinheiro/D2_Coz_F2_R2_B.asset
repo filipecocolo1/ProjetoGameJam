@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Coz_F2_R2_B
+  m_EditorClassIdentifier: 
+  fala: "Cozinheiro \u2013 Sua vida na cidade foi bem dif\xEDcil mesmo, acabou perdendo
+    a fam\xEDlia muito cedo, mas ele tamb\xE9m n\xE3o \xE9 o \xFAnico com esse destino
+    na cidade, uma pena mesmo. "
+  respostas:
+  - resposta: " E n\xE3o era o \xFAnico mesmo, quase todos que vivem no mar n\xE3o
+      tiveram uma inf\xE2ncia f\xE1cil, isso n\xE3o o torna especial em nenhum sentido.
+      Mas sobre a comida, devo dizer que n\xE3o me decepcionou desta vez. Muito bem,
+      continue assim. "
+    proximafala: {fileID: 11400000, guid: b2a4e882b01fdbe4cb08e9cf16873d63, type: 2}
+  - resposta: "N\xE3o finja empatia por algu\xE9m que voc\xEA nem mesmo sabia o nome
+      e continue o servi\xE7o, quero me alimentar bem como ontem, entendido? "
+    proximafala: {fileID: 11400000, guid: 8c852813c4db42e4aa7b8f3f17f197ca, type: 2}

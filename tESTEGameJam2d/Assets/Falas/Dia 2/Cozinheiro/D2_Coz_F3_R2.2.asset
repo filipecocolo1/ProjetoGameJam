@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D1_Coz_F3_R1.2_B
+  m_Name: D2_Coz_F3_R2.2
   m_EditorClassIdentifier: 
-  fala: "Cozinheiro - Eu j\xE1 disse que aquilo foi culpa daquele Carpinteiro apressado,
-    acabaram comendo da panela errada e colocaram a culpa em mim. N\xE3o tirarei
-    o olho da cozinha dessa vez... "
+  fala: "Cozinheiro - Tudo que eu pego acaba sendo mais barato que o normal por alguma
+    raz\xE3o haha, mas sei preparar tudo que temos como ningu\xE9m haha, se prepare
+    para de hoje que estar\xE1 ainda melhor que a de ontem, irei utilizar o salm\xE3o
+    pego hehe. "
   respostas: []
