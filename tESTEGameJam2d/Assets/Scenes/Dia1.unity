@@ -26050,8 +26050,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   falas:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 826ab798dec1efd4b8fb7a224ca51227, type: 2}
+  - {fileID: 11400000, guid: 464bcd5f728d3d649b374e3e6904616c, type: 2}
+  - {fileID: 11400000, guid: dbd3c9a97744e1b47bc432a27a960b7b, type: 2}
   dialogoConcluido: 0
   ObJETOcOLL: 
 --- !u!61 &1569283215
@@ -28310,7 +28311,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   falas:
   - {fileID: 11400000, guid: 48a1fa9e2b582f2448ad44830dab5d09, type: 2}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: f2308917aadf6314e85a8b7280b666d6, type: 2}
   - {fileID: 11400000, guid: 9f2fd7a51686068449fc7c9887e4ca33, type: 2}
   dialogoConcluido: 0
   ObJETOcOLL: 

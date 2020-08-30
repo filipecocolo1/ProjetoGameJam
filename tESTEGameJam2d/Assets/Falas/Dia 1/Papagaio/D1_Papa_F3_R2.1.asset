@@ -10,7 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D1_Imediato_F3_R1.1_B
+  m_Name: D1_Papa_F3_R2.1
   m_EditorClassIdentifier: 
-  fala: 'Imediato - Sim Senhor! '
+  fala: "Irm\xE3o - Bom se voc\xEA confia na pessoa eu tamb\xE9m confio, mas se outros
+    sabem sobre o tesouro podemos ter problemas no caminho... \u201CProbleeeeeeemaaaaaaaaaaaaaaa\u201D~papagaio..."
   respostas: []

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Papa_F2_R1
+  m_EditorClassIdentifier: 
+  fala: "Irm\xE3o - Este seria realmente o melhor cen\xE1rio haha \u201CNosso Baaaaaaaaaaarcooo\u201D~papagaio.
+    Shiiii, espero que meu papagaio n\xE3o irrite sua tripula\xE7\xE3o durante a
+    viagem, ele foi o \xFAnico membro que restou. "
+  respostas:
+  - resposta: "Acredito que seu papagaio n\xE3o ter\xE1 tantos problemas na tripula\xE7\xE3o
+      se ele s\xF3 fala coisas esquisitas haha, ele pode ser at\xE9 um alivio c\xF4mico
+      para o grupo. "
+    proximafala: {fileID: 11400000, guid: ac85413c1ee6744489ab4a84a724c44b, type: 2}
+  - resposta: "Esse papagaio \xE9 bem animado em haha, n\xE3o se preocupe, contanto
+      que ele n\xE3o fa\xE7a como faz em suas camisas creio que ningu\xE9m ter\xE1
+      problemas com ele haha.\t\t "
+    proximafala: {fileID: 11400000, guid: a1f0688e43a40fb45885d23e11563b88, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Papa_F2_R1_B
+  m_EditorClassIdentifier: 
+  fala: "Irm\xE3o - Sim, ainda me lembro daquela tempestade e seus gritos em meus
+    pesadelos \u201CSooocoooooroooooooooooo\u201D~papagaio... "
+  respostas:
+  - resposta: "Ningu\xE9m esperaria por uma tempestade daquelas, n\xE3o se culpe
+      por isso meu caro... "
+    proximafala: {fileID: 11400000, guid: 24f2a872a4a178e4a9a9eaadead2fdf2, type: 2}
+  - resposta: "Uma tempestade horr\xEDvel realmente, e seu barco foi o mais afetado
+      na cidade, ele era o \xFAnico que n\xE3o estava perto do cais, n\xE3o \xE9
+      mesmo? "
+    proximafala: {fileID: 11400000, guid: 79d3f7bb0c3e2064aac945d108ee9032, type: 2}
