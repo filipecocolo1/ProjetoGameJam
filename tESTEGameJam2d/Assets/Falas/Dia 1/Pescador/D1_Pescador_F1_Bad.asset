@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Pescador_F1_Bad
+  m_EditorClassIdentifier: 
+  fala: "Pescador \u2013 Bom dia capit\xE3o, este come\xE7o de jornada j\xE1 est\xE1
+    \xF3timo!! Acabamos passando por um cardume de salm\xF5es logo na sa\xEDda do
+    porto HAHA, mais um dia de alimentos para a tripula\xE7\xE3o foi garantida com
+    isso HAHA. "
+  respostas:
+  - resposta: "Vejo que est\xE1 fazendo sua estadia valer desta vez, n\xE3o quero
+      velo fazendo corpo mole como o de costume marujo. "
+    proximafala: {fileID: 0}
+  - resposta: "Ao menos n\xE3o come\xE7ou a viagem bebendo como o de costume, vejo
+      que est\xE1 mudando para melhor desde a \xFAltima viagem. "
+    proximafala: {fileID: 0}
