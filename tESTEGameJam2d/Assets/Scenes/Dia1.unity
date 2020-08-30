@@ -21410,7 +21410,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   falas:
-  - {fileID: 11400000, guid: 5b2359860bec89a4bb9c91be24c359ce, type: 2}
+  - {fileID: 0}
   - {fileID: 11400000, guid: f26730e1e78edf5408138373650d8770, type: 2}
   - {fileID: 11400000, guid: 8443b0d0e309daf46ad923f72a70fd8b, type: 2}
   dialogoConcluido: 0
@@ -25956,7 +25956,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1569283208}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.64, y: -6.37, z: 0}
+  m_LocalPosition: {x: 8, y: -5.73, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1831791815}
@@ -25994,8 +25994,8 @@ MonoBehaviour:
   - {fileID: 1835850656}
   - {fileID: 187968153}
   m_Bounds:
-    m_Center: {x: -0.041657984, y: -0.07687557, z: 0}
-    m_Extent: {x: 0.68748194, y: 1.6991068, z: 0}
+    m_Center: {x: -0.041657567, y: -0.07687557, z: 0}
+    m_Extent: {x: 0.6874819, y: 1.6991068, z: 0}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
 --- !u!50 &1569283212
@@ -26066,7 +26066,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.041657567, y: -0.07687104}
@@ -28064,7 +28064,7 @@ SpriteRenderer:
   m_Size: {x: 72.01758, y: 28.800001}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1646902043
@@ -36713,7 +36713,7 @@ SpriteRenderer:
   m_Size: {x: 3.6, y: 3.6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &2099691714
