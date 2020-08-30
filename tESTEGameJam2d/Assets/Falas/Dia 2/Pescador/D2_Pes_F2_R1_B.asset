@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Pes_F2_R1_B
+  m_EditorClassIdentifier: 
+  fala: "Pescador \u2013 \xC9 dif\xEDcil ser original e novo depois de anos navegando
+    junto capit\xE3o, n\xE3o \xE9 como se nas primeiras navega\xE7\xF5es voc\xEA
+    n\xE3o gostasse de ouvir minhas hist\xF3rias haha. "
+  respostas:
+  - resposta: "Eu era mais interessado no fato de voc\xEA se vender como um pescador
+      e n\xE3o saber quase nada do oficio Haahha, e as hist\xF3rias eu sempre acabava
+      ouvindo depois de beber ent\xE3o qualquer coisa j\xE1 vale nesse ponto hahaha. "
+    proximafala: {fileID: 11400000, guid: f2bcfeef506b53448ad87cb1df06988a, type: 2}
+  - resposta: "Nunca gostei na verdade, mas como as contava em todas as refei\xE7\xF5es
+      eu era obrigado a ouvi-las, e como nunca me fendiam como capit\xE3o eu nunca
+      reclamei das mesmas.  "
+    proximafala: {fileID: 11400000, guid: 5e2d19c992916134ca57e7218cd4ff79, type: 2}

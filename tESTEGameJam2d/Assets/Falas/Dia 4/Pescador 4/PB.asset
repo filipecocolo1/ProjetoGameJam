@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: PB
+  m_EditorClassIdentifier: 
+  fala: "Pescador - O primeiro Imediato era algu\xE9m que eu n\xE3o esperava sumir,
+    ele era o que tinha uma fam\xEDlia esperando por ele e mais raz\xF5es para viver...
+    Existe algo sobre essa jornada que voc\xEA n\xE3o contou capit\xE3o? "
+  respostas:
+  - resposta: "Fala como se eu fosse criar uma jornada para perder meus \xFAnicos
+      companheiros de viagem, se recomponha marujo. N\xE3o \xE9 nossa primeira viagem
+      juntos para que voc\xEA duvide de minha pessoa dessa forma. "
+    proximafala: {fileID: 11400000, guid: c1b7e1ed1790fc448b97688b0c7d0667, type: 2}
+  - resposta: "Nada que eu j\xE1 n\xE3o tenha compartilhado anteriormente marujo,
+      mas n\xE3o venha culpar o tesouro por acontecimentos no mar, n\xE3o estou com
+      muita paci\xEAncia para suas supersti\xE7\xF5es... "
+    proximafala: {fileID: 11400000, guid: 8e4efec4a1128be43996ede5e2afea1c, type: 2}

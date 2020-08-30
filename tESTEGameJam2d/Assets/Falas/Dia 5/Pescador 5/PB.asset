@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: PB
+  m_EditorClassIdentifier: 
+  fala: "Pescador - Bom dia Capit\xE3o, dormiu bem essa noite? "
+  respostas:
+  - resposta: "Nem t\xE3o bom n\xE3o \xE9 mesmo, mais um sumiu e nada de respostas... "
+    proximafala: {fileID: 11400000, guid: 84f377b33b0463748802d434efaec252, type: 2}
+  - resposta: "Acho que vou adotar sua linha de pensamento marujo, ignorar \xE9 melhor... "
+    proximafala: {fileID: 11400000, guid: 26bde83933c2b0b4b8bca1071f9f86b7, type: 2}

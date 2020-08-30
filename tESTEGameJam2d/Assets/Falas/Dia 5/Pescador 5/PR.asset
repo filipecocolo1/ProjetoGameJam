@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: PR
+  m_EditorClassIdentifier: 
+  fala: "Pescador \u2013 Bom dia Capit\xE3o, eu acho, j\xE1 que agora sem o recruta
+    n\xE3o vou ter um tripulante que ainda n\xE3o ouviu todas as minhas hist\xF3rias
+    haha."
+  respostas:
+  - resposta: "A noite n\xE3o foi boa e a manh\xE3 pior com a not\xEDcia...  "
+    proximafala: {fileID: 11400000, guid: dd9f0a4709883ac489b769194e6043b0, type: 2}
+  - resposta: 'Nada bem como pode ver em minha face... '
+    proximafala: {fileID: 11400000, guid: 9af7e176e615df04e976a276ffa6ef7d, type: 2}

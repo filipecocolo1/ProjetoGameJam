@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: PR1
+  m_EditorClassIdentifier: 
+  fala: "Pescador \u2013 Para reportar sobe o clima n\xE3o h\xE1 nada de mais capit\xE3o,
+    mas sobre a pescaria acabo de trazer uma tartaruga marinha a bordo, deve fazer
+    um ensopado excelente. "
+  respostas:
+  - resposta: "\u2013 N\xE3o tenho tempo para suas bobagens homem, suas leituras
+      do tempo n\xE3o podem parar agora que estamos t\xE3o perto do tesouro. "
+    proximafala: {fileID: 11400000, guid: 4ea8cddace501ac47803e082ea420863, type: 2}
+  - resposta: "- Pare com isso agora e se recomponha, preciso de voc\xEA acordado
+      para ouvir o que seu joelho sabe... "
+    proximafala: {fileID: 11400000, guid: cd9d91f44fb3ec84a81a64ddc88f6380, type: 2}
