@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D2_Pes_F3_R2
+  m_Name: D2_Pes_F3_R2.1
   m_EditorClassIdentifier: 
   fala: "Pescador \u2013 Isso \xE9 porque elas escolhem aparecer para os mais s\xE1bios
     e belos da tripula\xE7\xE3o, talvez seja por isso que voc\xEA nunca avistou uma

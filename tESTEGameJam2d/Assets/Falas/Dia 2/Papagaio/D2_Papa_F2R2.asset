@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Papa_F2R2
+  m_EditorClassIdentifier: 
+  fala: "Cara do Papagaio 2 \u2013 Este papagaio ainda repete as coisas que aconteceram
+    em meu ultimo dia em minha embarca\xE7\xE3o, n\xE3o leve o p\xE1ssaro a s\xE9rio,
+    ele nem sabe o que fala. "
+  respostas:
+  - resposta: "Sim, claro. S\xF3 achei estranho o coment\xE1rio haha, mas continue
+      ajudando os marujos, qualquer coisa pode vir a minha cabine perguntar."
+    proximafala: {fileID: 11400000, guid: a12e92930dc31b54baa562b4d9249113, type: 2}
+  - resposta: "Haha, pe\xE7o perd\xE3o pelo coment\xE1rio sobre seu grande amigo,
+      mas ele parece ser bem inteligente na verdade, parece sempre comentar sobre
+      o que estamos falando Hahaha.  "
+    proximafala: {fileID: 11400000, guid: 068670a2d7f052a40974817e6da09563, type: 2}
