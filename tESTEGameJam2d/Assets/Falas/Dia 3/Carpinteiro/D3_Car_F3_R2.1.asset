@@ -10,7 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D3_Im_F3_R1.2_B
+  m_Name: D3_Car_F3_R2.1
   m_EditorClassIdentifier: 
-  fala: "Imediato - Sim, senhor Capit\xE3o!"
+  fala: "Carpinteiro - Realmente haha, mas s\xF3 um pouco de esperan\xE7a j\xE1 vai
+    deixar esta tripula\xE7\xE3o em um bom humor fique tranquilo... "
   respostas: []

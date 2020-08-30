@@ -10,7 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D3_Im_F3_R1.2_B
+  m_Name: D3_Car_F3_R2.2
   m_EditorClassIdentifier: 
-  fala: "Imediato - Sim, senhor Capit\xE3o!"
+  fala: "Carpinteiro - Eu tamb\xE9m capit\xE3o, mas quero que termine com o ouro
+    em nossas m\xE3os tamb\xE9m hahaha. "
   respostas: []

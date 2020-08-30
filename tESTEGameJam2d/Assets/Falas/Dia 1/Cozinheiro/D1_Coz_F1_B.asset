@@ -19,8 +19,8 @@ MonoBehaviour:
   respostas:
   - resposta: "Vejo que n\xE3o foi pago atoa ent\xE3o haha, os suprimentos ser\xE3o
       os de sempre? Ou vai voltar a tentar inovar como antes? "
-    proximafala: {fileID: 0}
+    proximafala: {fileID: 11400000, guid: 6f3043ebee3794e42bd95fc6bb19207c, type: 2}
   - resposta: "Voc\xEA sabe porque o \u201CPescador est\xE1 aqui, aquele joelho \xE9
       bem \xFAtil. Bom, caso precise de alguma ajuda pe\xE7a ao Recruta, ele n\xE3o
       deve ter muito servi\xE7o depois de terminar com o Imediato... "
-    proximafala: {fileID: 0}
+    proximafala: {fileID: 11400000, guid: ca8c6fa255ec02442869ba692f82ad2f, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Car_F1
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro - A viagem acabou come\xE7ando um tanto quanto ruim n\xE3o \xE9
+    capit\xE3o, um tripulante sumindo durante a noite em seu turno n\xE3o \xE9 um
+    bom press\xE1gio para o resto da jornada...  "
+  respostas:
+  - resposta: "Eu n\xE3o entendo muito de press\xE1gios, mas infelizmente n\xE3o
+      temos escolha a n\xE3o ser seguir em frente, eu sei que faz pouco tempo que
+      partimos, mas se perdermos esta oportunidade pode n\xE3o haver outra no futuro. "
+    proximafala: {fileID: 11400000, guid: 278f0e23e5efc794f985b02822685ef9, type: 2}
+  - resposta: "Ainda n\xE3o nos conhec\xEDamos muito bem, eu e o recruta, para que
+      eu sinta de verdade sua perda, j\xE1 estamos neste ramo a anos afinal, e est\xE1
+      n\xE3o \xE9 a primeira vez que algo assim acontece. Mas n\xE3o posso parar
+      a expedi\xE7\xE3o de m\xE3os abanando, voc\xEA sabe bem disso... "
+    proximafala: {fileID: 11400000, guid: c8de1f8144e25654f85cc0f989e360c0, type: 2}

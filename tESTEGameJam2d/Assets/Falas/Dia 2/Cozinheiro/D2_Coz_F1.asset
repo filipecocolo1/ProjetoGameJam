@@ -17,8 +17,8 @@ MonoBehaviour:
   respostas:
   - resposta: "O garoto realmente desapareceu, at\xE9 agora ningu\xE9m achou nenhum
       sinal dele, mas infelizmente n\xE3o podemos parar a expedi\xE7\xE3o agora. "
-    proximafala: {fileID: 0}
+    proximafala: {fileID: 11400000, guid: d96e6107f1e16d74caafd5c96d5b16af, type: 2}
   - resposta: "At\xE9 agora nenhuma not\xEDcia, ele era algu\xE9m sozinho no mundo,
       mas n\xE3o sei o que ou porque algo aconteceria que traria em seu sumi\xE7o
       logo no segundo dia. "
-    proximafala: {fileID: 0}
+    proximafala: {fileID: 11400000, guid: 714f8148a6eef564cab5732fa98cc12d, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Car_F1_B
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro - A viagem acabou come\xE7ando um tanto quanto ruim n\xE3o \xE9
+    capit\xE3o, um tripulante sumindo durante a noite em seu turno n\xE3o \xE9 um
+    bom press\xE1gio para o resto da jornada...  "
+  respostas:
+  - resposta: "Um tanto ruim, mas que convenhamos n\xE3o faz muita diferen\xE7a em
+      nossos planos, ele ainda n\xE3o era uma pe\xE7a fundamental em nossa tripula\xE7\xE3o. "
+    proximafala: {fileID: 11400000, guid: cb3b4d1b840458449902174db5070dad, type: 2}
+  - resposta: "Ningu\xE9m ainda sabe o que aconteceu, mas espero que isto n\xE3o
+      atrapalhe a moral da tripula\xE7\xE3o, ainda estamos no come\xE7o da jornada. "
+    proximafala: {fileID: 11400000, guid: b160bbb21789a7f4099fc874c46f8422, type: 2}

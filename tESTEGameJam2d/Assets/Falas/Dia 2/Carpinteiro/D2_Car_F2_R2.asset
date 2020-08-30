@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Car_F2_R2
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro  \u2013 Eu entendo, eu j\xE1 ouvi e vi muita coisa estranha
+    nesses anos de fun\xE7\xE3o, n\xE3o podemos ficar lamentando a cada marujo que
+    desaparece ao mar mesmo... "
+  respostas:
+  - resposta: "Sim, infelizmente. Mas n\xE3o se preocupe, no final da expedi\xE7\xE3o
+      poderemos beber em honra a aqueles que se foram, contar hist\xF3rias e seguir
+      com a vida. "
+    proximafala: {fileID: 11400000, guid: 6a072e29263a4f44bae3ffbfdd4986d7, type: 2}
+  - resposta: "Me d\xE1 uma sensa\xE7\xE3o ruim lembrar de todos aqueles que j\xE1
+      navegaram conosco, mas isso \xE9 para se lamentar em uma cadeira de balan\xE7o
+      com uma caneca cheia haha. "
+    proximafala: {fileID: 11400000, guid: bbeb5a5fe47d684488cc363d36ff1e40, type: 2}

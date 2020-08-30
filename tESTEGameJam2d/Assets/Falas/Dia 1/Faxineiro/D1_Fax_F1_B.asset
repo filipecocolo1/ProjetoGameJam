@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D1_Fax_F1_B
+  m_EditorClassIdentifier: 
+  fala: "Bom dia? J\xE1 est\xE1 muito tarde para um bom dia. Nossa rota est\xE1 calma
+    mas sempre tenho medo dessas \xE1guas. Est\xE1 fazendo seu trabalho, ao menos. "
+  respostas:
+  - resposta: "H\xE1! Bom dia? O sol j\xE1 est\xE1 no meio do c\xE9u, e que c\xE9u
+      limpo, n\xE3o \xE9? Que sorte. O ch\xE3o n\xE3o se limpa sozinho, n\xE3o \xE9
+      marujo? HAHA  "
+    proximafala: {fileID: 11400000, guid: 551bb457c58e9c248858af8bfe5b763a, type: 2}
+  - resposta: "N\xE3o \xE9 um bom dia quando estamos \xE0 dez dias de chegar ao nosso
+      destino, marujo, e esse \xE9 o seu trabalho, deve cumprir com excel\xEAncia. "
+    proximafala: {fileID: 11400000, guid: b2d975bba529dfe43a6ab84b909680fb, type: 2}

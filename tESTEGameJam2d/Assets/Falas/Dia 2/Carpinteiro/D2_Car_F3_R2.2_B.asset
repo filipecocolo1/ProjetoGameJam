@@ -10,7 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
-  m_Name: D3_Im_F3_R1.2_B
+  m_Name: D2_Car_F3_R2.2_B
   m_EditorClassIdentifier: 
-  fala: "Imediato - Sim, senhor Capit\xE3o!"
+  fala: "Carpinteiro - Pode deixar Capit\xE3o, a consertarei at\xE9 o anoitecer e
+    deixarei em seus aposentos. "
   respostas: []

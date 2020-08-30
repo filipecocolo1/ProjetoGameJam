@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D2_Car_F2_R1_B
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro - \xC9, ele era jovem e inexperiente ainda, \xE9 uma pena ...
+    E a rota, estamos bem alinhados e sem desvios capit\xE3o? "
+  respostas:
+  - resposta: "A rota continua sem problemas at\xE9 o momento, durante a noite tivemos,
+      uma onda ou duas mais fortes, mas nada fora do normal... "
+    proximafala: {fileID: 11400000, guid: f96777358f94a704fb653bbc59cd19d5, type: 2}
+  - resposta: "Sem desvios at\xE9 o momento, acredito que em sete dias j\xE1 devemos
+      estar no destino, s\xF3 espero n\xE3o perder mais ningu\xE9m at\xE9 l\xE1... "
+    proximafala: {fileID: 11400000, guid: 0d2ae61ee0c9eec4e94960552ecce0cf, type: 2}

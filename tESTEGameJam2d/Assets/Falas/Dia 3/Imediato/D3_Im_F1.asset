@@ -17,8 +17,8 @@ MonoBehaviour:
   respostas:
   - resposta: "O que?! O cozinheiro sumiu? J\xE1 procuraram em tudo? Isso \xE9 realmente
       muito estranho, algo est\xE1 acontecendo. "
-    proximafala: {fileID: 0}
+    proximafala: {fileID: 11400000, guid: 061e0b31a5fab13458d414d708d02c6c, type: 2}
   - resposta: "Eu fiquei sabendo, estou pensando em que faremos. \xC9 preocupante
       que n\xF3s tenhamos um traidor entre n\xF3s, ser\xE1 que monstros marinhos
       podem ser cogitados agora? "
-    proximafala: {fileID: 0}
+    proximafala: {fileID: 11400000, guid: 390e46ca8a420a342a7fd73b6dbff507, type: 2}

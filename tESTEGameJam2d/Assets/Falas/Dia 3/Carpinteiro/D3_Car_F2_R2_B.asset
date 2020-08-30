@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca20a22d7ec94e4480bd313c2035651, type: 3}
+  m_Name: D3_Car_F2_R2_B
+  m_EditorClassIdentifier: 
+  fala: "Carpinteiro - Entendo senhor, se precisar que algu\xE9m o ajude pode contar
+    comigo senhor, tenho um tempo vago quando n\xE3o entramos em combates haha. "
+  respostas:
+  - resposta: "Falando nisso, eu preciso que voc\xEA seja o cozinheiro da embarca\xE7\xE3o
+      at\xE9 que cheguemos ao porto, todos precisamos comer afinal "
+    proximafala: {fileID: 11400000, guid: c6ef5fafe18c74740968622cae74f615, type: 2}
+  - resposta: "Se est\xE1 com tanto livre seja o novo cozinheiro da embarca\xE7\xE3o,
+      acredito que seus servi\xE7os carpinteiros podem ser deixados de lado por hora. "
+    proximafala: {fileID: 11400000, guid: eaee861026e70984ca6507a02390e0e8, type: 2}
